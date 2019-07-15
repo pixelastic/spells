@@ -1,0 +1,27 @@
+{
+  "author": "Pixelastic <tim@pixelastic.com>",
+  "description": "Machine-readable list of D&D 5e spells",
+  "devDependencies": {
+    "aberlaas": "^0.1.2"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "dnd5-spells",
+  "repository": "git@github.com:pixelastic/dnd5-spells.git",
+  "scripts": {
+    "build": "./scripts/build",
+    "build:watch": "./scripts/build-watch",
+    "lint": "./scripts/lint",
+    "lint:css": "./scripts/lint-css",
+    "lint:css:fix": "./scripts/lint-css-fix",
+    "lint:fix": "./scripts/lint-fix",
+    "lint:js": "./scripts/lint-js",
+    "lint:js:fix": "./scripts/lint-js-fix",
+    "lint:json": "./scripts/lint-json",
+    "lint:json:fix": "./scripts/lint-json-fix",
+    "release": "./scripts/release",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
+  },
+  "version": "0.0.1"
+}
