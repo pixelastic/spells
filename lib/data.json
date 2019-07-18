@@ -10346,34 +10346,6 @@
     "range": "10 ft",
     "school": "Conjuration"
   },
-  "trapTheSoul": {
-    "castingTime": "1 minute",
-    "classes": [
-      "Wizard"
-    ],
-    "components": [
-      "V",
-      "S",
-      "M"
-    ],
-    "description": "This spell name was added as an error and does not exist. Refer to the spell named \"imprisonment\" for information on what this spell was intended to be.",
-    "duration": "Until dispelled",
-    "fr": {
-      "castingTime": "1 minute",
-      "classes": [
-        "Mage"
-      ],
-      "duration": "Jusqu'à dissipation",
-      "range": "9m"
-    },
-    "isConcentration": false,
-    "isRitual": false,
-    "level": 8,
-    "name": "Trap the Soul",
-    "page": "Error",
-    "range": "30 ft",
-    "school": "Conjuration"
-  },
   "treeStride": {
     "castingTime": "1 action",
     "classes": [
