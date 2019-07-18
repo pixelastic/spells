@@ -18,7 +18,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Aspersion acide",
+      "page": "215",
+      "range": "18m",
+      "shortDescription": "1 ou 2 créatures dans un rayon de 1,50 m doivent réussir un JdS de Dex. ou subir 1d6 dégâts d'acide (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -48,7 +51,10 @@
         "Paladin"
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Aide",
+      "page": "211",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 3 créatures augmentent leurs pv actuels et pv max de 5 (+5 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -80,7 +86,10 @@
         null
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Alarme",
+      "page": "211",
+      "range": "9m",
+      "shortDescription": "Alerte le lanceur ou active une alarme si une créature de taille TP ou supérieure pénètre dans un cube surveilé de 6 m."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -109,7 +118,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Modifier son apparence",
+      "page": "259",
+      "range": "Personnelle",
+      "shortDescription": "Donne une nouvelle forme suivant l'option choisie (Adaptation aquatique, Changement d'apparence ou Armes naturelles)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -143,7 +155,10 @@
         "Rôdeur"
       ],
       "duration": "24 heures",
-      "range": "9m"
+      "name": "Amitié avec les animaux",
+      "page": "212",
+      "range": "9m",
+      "shortDescription": "Une bête d'Intelligence 3 ou moins doit réussir un JdS de Sag. ou être charmée (+1 bête/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -177,7 +192,10 @@
         null
       ],
       "duration": "24 heures",
-      "range": "9m"
+      "name": "Messager animal",
+      "page": "258",
+      "range": "9m",
+      "shortDescription": "Une bête de taille TP va livrer un message de 25 mots à une cible (+48 h/niv)."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -204,7 +222,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 24 heures",
-      "range": "9m"
+      "name": "Formes animales",
+      "page": "242",
+      "range": "9m",
+      "shortDescription": "Les cibles consentantes à 9 m se transforment en bêtes de FP 4 ou inférieur."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -234,7 +255,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Animation des morts",
+      "page": "213",
+      "range": "3m",
+      "shortDescription": "Crée un squelette à partir d'os ou un zombi à partir d'un cadavre, qui est sous le contrôle du lanceur (+2 créatures/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -265,7 +289,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Animation des objets",
+      "page": "213",
+      "range": "36m",
+      "shortDescription": "Anime jusqu'à 10 objets non magiques et contrôle leurs actions jusqu'à 150 m (+2 objets/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -292,7 +319,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Coquille antivie",
+      "page": "229",
+      "range": "Personnelle",
+      "shortDescription": "Empêche les créatures autres que morts-vivants et créatures artificielles de pénétrer dans un rayon de 3 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -322,7 +352,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Champ antimagie",
+      "page": "222",
+      "range": "Personnelle",
+      "shortDescription": "Crée une sphère de 3 m de rayon dans laquelle les sorts et les objets magiques ne fonctionnent plus."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -352,7 +385,10 @@
         "Mage"
       ],
       "duration": "10 jours",
-      "range": "18m"
+      "name": "Répulsion/attirance",
+      "page": "275",
+      "range": "18m",
+      "shortDescription": "Attire ou répulse (JdS de Sag. pour ne pas être attiré ou effrayé) une sorte de créature désignée dans un rayon de 18 m."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -382,7 +418,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "9m"
+      "name": "Oeil magique",
+      "page": "266",
+      "range": "9m",
+      "shortDescription": "Crée un oeil invisible avec vision dans le noir qui envoie au lanceur l'image mentale de ce qu'il voit."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -413,7 +452,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "150m"
+      "name": "Portail magique",
+      "page": "269",
+      "range": "150m",
+      "shortDescription": "Crée 2 portails séparés de 150 m max et permet de passer de l'un à l'autre de manière transparente."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -441,7 +483,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Verrou magique",
+      "page": "288",
+      "range": "Toucher",
+      "shortDescription": "Verrouille un objet (porte, fenêtre, coffre, etc) et le lanceur peut définir un mot de passe pour supprimer le sort 1 minute."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -469,7 +514,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Armure d'Agathys",
+      "page": "215",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur gagne 5pv temporaires et une créature qui le touche au corps à corps subit 5 dégâts de froid à (+5 pv et dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -496,7 +544,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Tentacules d'Hadar",
+      "page": "284",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un rayon de 3 m doivent réussir un JdS de For. ou subir 2d6 dégâts nécrotiques (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -528,7 +579,10 @@
         "Sorcier"
       ],
       "duration": "Spécial",
-      "range": "3m"
+      "name": "Projection astrale",
+      "page": "271",
+      "range": "3m",
+      "shortDescription": "Le lanceur et jusqu'à 8 créatures sont projetés dans le plan Astral."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -558,7 +612,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Augure",
+      "page": "216",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient un présage concernant le résultat d'une action dans les 30 prochaines min (fortune, péril, les deux ou rien)."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -584,7 +641,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Aura de vie",
+      "page": "216",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un rayon de 9 m ont la résistance aux dégâts nécrotiques et regagnent automatiquement 1 pv une fois à 0 pv."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -610,7 +670,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Aura de pureté",
+      "page": "216",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un rayon de 9 m ne peuvent tomber malade, ont la résistance au poison et l'avantage à certains JdS."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -636,7 +699,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Aura de vitalité",
+      "page": "216",
+      "range": "Personnelle",
+      "shortDescription": "La cible dans un rayon de 9 m récupère 2d6 pv."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -666,7 +732,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Éveil",
+      "page": "238",
+      "range": "Toucher",
+      "shortDescription": "Donne à une bête ou à une plante (Intelligence 3 max) la capacité de parler et des sens humains durant 30 jours."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -698,7 +767,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Fléau",
+      "page": "240",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 3 cibles doivent réussir un JdS de Cha. ou soustraire 1d4 à l'attaque ou à la sauvegarde (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -724,7 +796,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe de banissement",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque avec une arme touche, inflige 5d10 dégâts de force extra. Une cible réduite à 50 pv ou moins est bannie."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -760,7 +835,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Bannissement",
+      "page": "217",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Cha. ou être envoyée sur un demi-plan non-dangereux (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -792,7 +870,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Peau d'écorce",
+      "page": "267",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient une CA de 16 minimum."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -821,7 +902,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Lueur d'espoir",
+      "page": "254",
+      "range": "9m",
+      "shortDescription": "Les cibles gagnent l'avantage aux JdS de Sag. et aux JdS contre la mort, et récupèrent le maximum de pv lors d'une guérison."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -851,7 +935,10 @@
         null
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Sens animal",
+      "page": "278",
+      "range": "Toucher",
+      "shortDescription": "Le lanceur peut voir/entendre/sentir à travers les sens d'une bête consentante."
     },
     "isConcentration": true,
     "isRitual": true,
@@ -882,7 +969,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Jeter une malédiction",
+      "page": "252",
+      "range": "Toucher",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou subir un effet comme un désavantage à un jet ou perdre une action (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -910,7 +1000,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Main de Bigby",
+      "page": "255",
+      "range": "36m",
+      "shortDescription": "Crée une main de taille G et de Force 26 qui peut frapper (4d8 dégâts de force), pousser, agripper ou protéger (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -937,7 +1030,10 @@
         "Clerc"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "27m"
+      "name": "Barrière de lames",
+      "page": "217",
+      "range": "27m",
+      "shortDescription": "Crée un mur de 30 x 6 x 1,50 m qui confère un abri important (3/4) et peut infliger 6d10 dégâts tranchants si on le traverse."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -970,7 +1066,10 @@
         "Sorcier"
       ],
       "duration": "1 round",
-      "range": "Personnelle"
+      "name": "Protection contre les armes",
+      "page": "272",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient la résistance contre les dégâts contondants, tranchants et perforants infligés par des attaques avec arme."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1000,7 +1099,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Bénédiction",
+      "page": "218",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 3 cibles peuvent ajouter 1d4 à leur jet d'attaque ou de sauvegarde (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1033,7 +1135,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Flétrissement",
+      "page": "240",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Con. ou subir 8d8 dégâts nécrotiques (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1059,7 +1164,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe aveuglante",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 3d8 dégâts radiants extra et la cible doit réussir un JdS de Con. ou être aveuglée."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1093,7 +1201,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "9m"
+      "name": "Cécité/Surdité",
+      "page": "221",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Con. ou devenir aveuglée ou assourdie (+1 créature/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1126,7 +1237,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "Personnelle"
+      "name": "Clignotement",
+      "page": "224",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur a 50% de chance de passer dans le plan éthéré, puis il revient dans l'espace qu'il occupait au tour suivant."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1156,7 +1270,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Flou",
+      "page": "240",
+      "range": "Personnelle",
+      "shortDescription": "Le corps du lanceur devient flou et les créatures qui l'attaquent ont un désavantage au jet d'attaque contre lui."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1182,7 +1299,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe lumineuse",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque avec une arme touche, inflige 2d6 dégâts radiants extra et la cible émet une lumière faible sur 1,50m (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1215,7 +1335,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Mains brûlantes",
+      "page": "256",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cône de 4,50 m doivent réussir un JdS de Dex. ou subir 3d6 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1244,7 +1367,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Appel de la foudre",
+      "page": "214",
+      "range": "36m",
+      "shortDescription": "Les créatures dans un rayon de 1,50 m doivent réussir un JdS de Dex. ou subir 3d10 dégâts de foudre (dégâts/niv) à chaque tour."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1275,7 +1401,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Apaisement des émotions",
+      "page": "213",
+      "range": "18m",
+      "shortDescription": "Les créatures dans un rayon de 6 m doivent réussir un JdS de Cha. ou ne plus être charmées/effrayées, ou être indifférentes."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1305,7 +1434,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Chaîne d'éclairs",
+      "page": "222",
+      "range": "45m",
+      "shortDescription": "Jusqu'à 4 cibles différentes doivent réussir un JdS de Dex. ou subir 10d8 dégâts de foudre (+1 cible/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1342,7 +1474,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Charme-personne",
+      "page": "223",
+      "range": "9m",
+      "shortDescription": "La cible humanoïde doit réussir un JdS de Sag. ou être charmée par le lanceur (+1 créature/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1373,7 +1508,10 @@
         "Sorcier"
       ],
       "duration": "1 round",
-      "range": "36m"
+      "name": "Contact glacial",
+      "page": "220",
+      "range": "36m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8 dégâts nécrotiques (dégâts/niv) et la cible ne peut récupérer ses pv de suite."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1403,7 +1541,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "27m"
+      "name": "Orbe chromatique",
+      "page": "266",
+      "range": "27m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 3d8 dégâts d'un type préalablement déterminé (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1435,7 +1576,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Cercle de mort",
+      "page": "221",
+      "range": "45m",
+      "shortDescription": "Les créatures dans une sphère de 18 m de rayon doivent réussir un JdS de Con. ou subir 8d6 dégâts nécrotiques (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1461,7 +1605,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Cercle de pouvoir",
+      "page": "221",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures amicales dans un rayon de 9 m ont l'avantage aux JdS contre les sorts et autres effets magiques."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1497,7 +1644,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "1.5km"
+      "name": "Clairvoyance",
+      "page": "224",
+      "range": "1.5km",
+      "shortDescription": "Crée un détecteur invisible dans un lieu familier à 1,5 km ou moins, permettant de voir ou d'entendre (au choix, modifiable)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1525,7 +1675,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Clone",
+      "page": "224",
+      "range": "Toucher",
+      "shortDescription": "Crée en 120 jours le double inerte d'une créature vivante. Si la créature originale meurt, son âme est transférée dans le clone."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1559,7 +1712,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Nuée de dagues",
+      "page": "265",
+      "range": "18m",
+      "shortDescription": "Les créatures dans un cube de 1,50 m subissent automatiquement 4d4 dégâts tranchants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1590,7 +1746,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Nuage mortel",
+      "page": "264",
+      "range": "36m",
+      "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Con. ou subir 5d8 dégâts de poison (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1620,7 +1779,10 @@
         "Mage"
       ],
       "duration": "1 round",
-      "range": "Personnelle"
+      "name": "Couleurs dansantes",
+      "page": "229",
+      "range": "Personnelle",
+      "shortDescription": "6d10 pv de créatures sont éblouies par ordre croissant de leurs pv actuels (+2d10 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1650,7 +1812,10 @@
         "Sorcier"
       ],
       "duration": "1 round",
-      "range": "18m"
+      "name": "Injonction",
+      "page": "249",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou suivre votre ordre comme Approche, Lâche, Fuis, Tombe, Halte, etc (+1 créature/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1682,7 +1847,10 @@
         null
       ],
       "duration": "1 minute",
-      "range": "Personnelle"
+      "name": "Communion",
+      "page": "226",
+      "range": "Personnelle",
+      "shortDescription": "Permet d'obtenir d'une entité divine les réponses (oui ou non) à 3 questions."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -1715,7 +1883,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Communion avec la nature",
+      "page": "226",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient 3 information sur le territoire alentour. Ne fonctionne pas dans les donjons ou les villes."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -1741,7 +1912,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Duel forcé",
+      "page": "235",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou avoir un désavantage à ses jets d'attaque contre d'autres créatures que le lanceur."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1777,7 +1951,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Compréhension des langues",
+      "page": "226",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur comprend toutes les langues parlées ou écrites (1 min/page). Ne décode pas les messages secrets."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -1804,7 +1981,10 @@
         "Barde"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Compulsion",
+      "page": "226",
+      "range": "9m",
+      "shortDescription": "Les cibles à 9 m doivent réussir un JdS de Sag. ou se déplacer dans une direction indiquée."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1836,7 +2016,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Cône de froid",
+      "page": "226",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cône de 18 m doivent réussir un JdS de Con. ou subir 8d8 dégâts de froid (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1872,7 +2055,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "27m"
+      "name": "Confusion",
+      "page": "226",
+      "range": "27m",
+      "shortDescription": "Les créatures dans un rayon de 3 m doivent réussir un JdS de Sag. ou ne plus pouvoir agir normalement (+1,50 m de rayon/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1901,7 +2087,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "18m"
+      "name": "Invoquer des animaux",
+      "page": "250",
+      "range": "18m",
+      "shortDescription": "Invoque de 1 bête FP 2 à 8 bêtes FP 1/4 amicales (nbre de créatures/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1929,7 +2118,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Invoquer un tir de barrage",
+      "page": "251",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cône de 18 m doivent réussir un JdS de Dex. ou subir 3d8 dégâts de l'arme/la munition utilisée."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -1956,7 +2148,10 @@
         "Clerc"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Invoquer un céleste",
+      "page": "251",
+      "range": "27m",
+      "shortDescription": "Invoque 1 céleste FP 4 amical (FP +1/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -1986,7 +2181,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Invoquer un élémentaire",
+      "page": "251",
+      "range": "27m",
+      "shortDescription": "Invoque 1 élémentaire FP 5 amical (FP +1/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2015,7 +2213,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Invoquer une fée",
+      "page": "251",
+      "range": "27m",
+      "shortDescription": "Invoque 1 fée FP 6 amicale (FP +1/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2044,7 +2245,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Invoquer des élémentaires mineurs",
+      "page": "250",
+      "range": "27m",
+      "shortDescription": "Invoque de 1 élémentaire FP 2 à 8 élémentaires FP 1/4 amicaux (nbre de créatures/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2072,7 +2276,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Invoquer une volée de projectiles",
+      "page": "252",
+      "range": "45m",
+      "shortDescription": "Les créatures dans un cylindre de 12 x 6 m doivent réussir un JdS de Dex. ou subir 8d8 dégâts de l'arme/la munition choisie."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2102,7 +2309,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "18m"
+      "name": "Invoquer des êtres des bois",
+      "page": "250",
+      "range": "18m",
+      "shortDescription": "Invoque de 1 fée FP 2 à 8 fées FP 1/4 amicales (nbre de créatures/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2132,7 +2342,10 @@
         null
       ],
       "duration": "1 minute",
-      "range": "Personnelle"
+      "name": "Contacter un autre plan",
+      "page": "227",
+      "range": "Personnelle",
+      "shortDescription": "Contacte une entité extérieure afin de lui poser 5 questions si un JdS d'Int. est réussi. Sinon, 6d6 dégâts psychiques."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -2161,7 +2374,10 @@
         "Druide"
       ],
       "duration": "7 jours",
-      "range": "Toucher"
+      "name": "Contagion",
+      "page": "227",
+      "range": "Toucher",
+      "shortDescription": "Si l'attaque avec un sort touche, la cible est infectée d'une maladie à choisir parmi les 6 proposées."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2189,7 +2405,10 @@
         "Mage"
       ],
       "duration": "10 jours",
-      "range": "Personnelle"
+      "name": "Contingence",
+      "page": "227",
+      "range": "Personnelle",
+      "shortDescription": "Conditionne l'activation d'un sort de niveau 5 ou inférieur qui peut cibler le lanceur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2219,7 +2438,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Flamme éternelle",
+      "page": "239",
+      "range": "Toucher",
+      "shortDescription": "Crée une flamme qui produit une lumière équivalente à celle d'une torche, mais qui ne dégage aucune chaleur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2251,7 +2473,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "90m"
+      "name": "Contrôle de l'eau",
+      "page": "228",
+      "range": "90m",
+      "shortDescription": "Contrôle l'eau dans un cube de 30 m (provoquer une crue, scinder l'eau, diriger le courant, créer un tourbillon)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2283,7 +2508,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 8 heures",
-      "range": "Personnelle"
+      "name": "Contrôle du climat",
+      "page": "228",
+      "range": "Personnelle",
+      "shortDescription": "Modifie progressivement les conditions climatiques en extérieur (précipitation, température et force du vent)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2311,7 +2539,10 @@
         "Rôdeur"
       ],
       "duration": "8 heures",
-      "range": "1.5m"
+      "name": "Cordon de flèches",
+      "page": "229",
+      "range": "1.5m",
+      "shortDescription": "4 munitions infligent 1d6 dégâts perforants si la cible rate un JdS de Dex. (nbre de munitions/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2341,7 +2572,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Contresort",
+      "page": "228",
+      "range": "18m",
+      "shortDescription": "En réaction, fait échouer un sort de niveau 3 ou inférieur. Jet de Carac.Inc pour un sort de niveau 4 ou supérieur (seuil/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2372,7 +2606,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Création de nourriture et d'eau",
+      "page": "230",
+      "range": "9m",
+      "shortDescription": "Crée 22,5 kilos de nourriture et 120 litres d'eau, suffisant pour 15 personnes durant 24 heures."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2402,7 +2639,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Création ou destruction d'eau",
+      "page": "230",
+      "range": "9m",
+      "shortDescription": "Crée ou détruit jusqu'à 40 litres d'eau (+40 litres/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2434,7 +2674,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Création de mort-vivant",
+      "page": "230",
+      "range": "3m",
+      "shortDescription": "Jusqu'à 3 cadavres humanoïdes M ou P deviennent une goule qui obéit au lanceur durant 24 h (nbre et type de créatures/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2464,7 +2707,10 @@
         "Mage"
       ],
       "duration": "Spécial",
-      "range": "9m"
+      "name": "Création",
+      "page": "230",
+      "range": "9m",
+      "shortDescription": "Crée un objet non vivant fait de matières végétales ou minérales et pas plus grand qu'un cube de 1,50 m (+1,50 m/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2497,7 +2743,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Couronne du dément",
+      "page": "230",
+      "range": "36m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée. Elle peut alors attaquer une cible désignée par le lanceur."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2525,7 +2774,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Aura du croisé",
+      "page": "216",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures non hostiles dans un rayon de 9 m infligent 1d4 dégâts radiants extra lorsqu'ils touchent avec une arme."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2560,7 +2812,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Soin des blessures",
+      "page": "279",
+      "range": "Toucher",
+      "shortDescription": "1 créature récupère 1d8+Mod.Carac pv (+1d8 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2592,7 +2847,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Lumières dansantes",
+      "page": "255",
+      "range": "36m",
+      "shortDescription": "Crée jusqu'à 4 lumières de la taille d'une torche qui émettent une lumière faible sur 3 m et qu'on peut déplacer jusqu'à 18 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2625,7 +2883,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Ténèbres",
+      "page": "284",
+      "range": "18m",
+      "shortDescription": "Remplit une sphère de 4,50 m de rayon de ténèbres magiques."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2659,7 +2920,10 @@
         "Rôdeur"
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Vision dans le noir",
+      "page": "289",
+      "range": "Toucher",
+      "shortDescription": "La cible peut voir dans le noir à 18 mètres."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2694,7 +2958,10 @@
         "Rôdeur"
       ],
       "duration": "1 heure",
-      "range": "18m"
+      "name": "Lumière du jour",
+      "page": "255",
+      "range": "18m",
+      "shortDescription": "Crée une sphère qui emet une lumière vive sur 18 m et une lumière faible sur 18 m supplémentaires."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2723,7 +2990,10 @@
         "Paladin"
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Protection contre la mort",
+      "page": "271",
+      "range": "Toucher",
+      "shortDescription": "Lorsque la cible tombera pour la première fois à 0 pv, elle repassera automatiquement à 1 pv."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2753,7 +3023,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "45m"
+      "name": "Boule de feu à explosion retardée",
+      "page": "219",
+      "range": "45m",
+      "shortDescription": "Les créatures dans une shpère de 6 m de rayon doivent réussir un JdS de Dex. ou subir 12d6 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2781,7 +3054,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "18m"
+      "name": "Demi-plan",
+      "page": "231",
+      "range": "18m",
+      "shortDescription": "Crée une porte qui conduit à un demi-plan (cube de 9 m). Les créatures encore dans le demi-plan à la fin du sort sont piégées."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2809,7 +3085,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Vague destructrice",
+      "page": "288",
+      "range": "Personnelle",
+      "shortDescription": "Les cibles dans un rayon de 9 m doivent réussir un JdS de Con. ou subir 5d6 de tonnerre et 5d6 radiants ou nécrotiques."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -2838,7 +3117,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Détection du mal et du bien",
+      "page": "233",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur détecte et localise aberration, céleste, élémentaire, fée, fiélon ou mort-vivant dans un rayon de 9 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2879,7 +3161,10 @@
         null
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Détection de la magie",
+      "page": "232",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur détecte toutes émanations magiques dans un rayon de 9 m et en détermine l'école."
     },
     "isConcentration": true,
     "isRitual": true,
@@ -2915,7 +3200,10 @@
         null
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Détection du poison et des maladies",
+      "page": "233",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur détecte et identifie poisons, créatures venimeuses et maladies à 9 mètres."
     },
     "isConcentration": true,
     "isRitual": true,
@@ -2949,7 +3237,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Détection des pensées",
+      "page": "232",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur détecte les pensées superficielles d'une créature à 9 m, et les plus approfondies si la cible rate un JdS de Sag."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -2985,7 +3276,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "150m"
+      "name": "Porte dimensionnelle",
+      "page": "269",
+      "range": "150m",
+      "shortDescription": "Le lanceur et une autre créature de même taille sont téléportés à un maximum de 150 mètres."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3018,7 +3312,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Déguisement",
+      "page": "231",
+      "range": "Personnelle",
+      "shortDescription": "Modifie l'apparence du lanceur (son physique et son équipement) grâce à une illusion."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3048,7 +3345,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Désintégration",
+      "page": "232",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Dex. ou subir 10d6+40 dégâts de force (dégâts/niv). Un objet de taille G est désintégré."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3078,7 +3378,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Dissipation du mal et du bien",
+      "page": "233",
+      "range": "Personnelle",
+      "shortDescription": "Met fin à une condition (charmée, effrayée ou possédée) ou renvoie une créature sur son plan d'origine (JdS de Cha)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3117,7 +3420,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Dissipation de la magie",
+      "page": "233",
+      "range": "36m",
+      "shortDescription": "Met fin aux sorts de niveau 3 ou inférieur sur une cible. Jet de Carac.Inc pour les sorts de niveau 4 ou supérieur (seuil/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3145,7 +3451,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Murmures dissonants",
+      "page": "264",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou subir 3d6 dégâts psychiques et s'éloigner (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3177,7 +3486,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Divination",
+      "page": "233",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient une réponse fiable à 1 question au sujet d'un évènement à venir dans les 7 prochains jours."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -3206,7 +3518,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Faveur divine",
+      "page": "239",
+      "range": "Personnelle",
+      "shortDescription": "Si une attaque avec une arme touche, inflige 1d4 dégâts radiants extra."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3232,7 +3547,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Parole divine",
+      "page": "266",
+      "range": "9m",
+      "shortDescription": "Les cibles doivent réussir un JdS de Cha. ou subir un effet (assourdi, aveuglé, etc). Certaines créatures sont bannies."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3265,7 +3583,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Dominer une bête",
+      "page": "234",
+      "range": "18m",
+      "shortDescription": "Une bête à 18 m doit réussir un JdS de Sag. ou être charmé et obéir au lanceur (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3298,7 +3619,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "18m"
+      "name": "Dominer un monstre",
+      "page": "234",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et obéir au lanceur (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3333,7 +3657,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Dominer un humanoïde",
+      "page": "234",
+      "range": "18m",
+      "shortDescription": "Un humanoïde doit réussir un JdS de Sag. ou être charmé et obéir au lanceur (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3363,7 +3690,10 @@
         null
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Convocations instantanées de Drawmij",
+      "page": "229",
+      "range": "Toucher",
+      "shortDescription": "Marque un objet de 5 kg max et permet par la suite de le téléporter dans la main du lanceur, où qu'il soit, s'il n'est pas tenu."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -3397,7 +3727,10 @@
         "Sorcier"
       ],
       "duration": "8 heures",
-      "range": "Spécial"
+      "name": "Rêve",
+      "page": "276",
+      "range": "Spécial",
+      "shortDescription": "Façonne les rêves d'une créature qui dort et peut faire subir 3d6 dégâts psychiques en cas d'échec à un JdS de Sag."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3424,7 +3757,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Druidisme",
+      "page": "235",
+      "range": "9m",
+      "shortDescription": "Permet d'obtenir divers effets mineurs en rapport avec la nature (prévision météo, floraison, effet sensoriel, etc)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3456,7 +3792,10 @@
         "Ensorceleur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "150m"
+      "name": "Tremblement de terre",
+      "page": "285",
+      "range": "150m",
+      "shortDescription": "Les créatures dans un rayon de 30 m doivent réussir un JdS de Dex. ou tomber à terre. Cause des dégâts aux structures."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3483,7 +3822,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Explosion occulte",
+      "page": "239",
+      "range": "36m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d10 dégâts de force (nbre de rayons/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3510,7 +3852,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Arme élémentaire",
+      "page": "215",
+      "range": "Toucher",
+      "shortDescription": "Une arme devient magique avec +1 aux jets d'attaque et +1d4 de dégâts extra d'un type à choisir (bonus et dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3544,7 +3889,10 @@
         "Ensorceleur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Amélioration de caractéristique",
+      "page": "211",
+      "range": "Toucher",
+      "shortDescription": "La cible gagne l'avantage aux jets d'une caractéristique prédéfinie, plus d'éventuels autres bonus (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3574,7 +3922,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Agrandir/Rétrécir",
+      "page": "211",
+      "range": "9m",
+      "shortDescription": "Double ou réduit de moitié la taille d'une créature (JdS de Con) ou d'un objet."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3602,7 +3953,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe piégeuse",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "La cible doit réussir un JdS de For. ou être entravée et subir 1d6 dégâts perforants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3629,7 +3983,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "27m"
+      "name": "Enchevêtrement",
+      "page": "236",
+      "range": "27m",
+      "shortDescription": "Les créatures dans un carré de 6 m (terrain difficile) doivent réussir un JdS de For. ou être entravées."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3658,7 +4015,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "18m"
+      "name": "Envoûtement",
+      "page": "237",
+      "range": "18m",
+      "shortDescription": "Les cibles doivent réussir un JdS de Sag. ou avoir un désavantage aux jets de Sagesse (Perception) contre d'autres créatures."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3693,7 +4053,10 @@
         "Sorcier"
       ],
       "duration": "8 heures",
-      "range": "Personnelle"
+      "name": "Forme éthérée",
+      "page": "241",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur est projetté dans le plan éthéré (nbre de créatures/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3723,7 +4086,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "27m"
+      "name": "Tentacules noirs d'Evard",
+      "page": "284",
+      "range": "27m",
+      "shortDescription": "Les créatures dans un carré de 6 m doivent réussir un JdS de Dex. ou subir 3d6 dégâts contondants et être entravées."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3754,7 +4120,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Repli expéditif",
+      "page": "274",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur peut effectuer l'action Foncer en utilisant une action bonus."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3787,7 +4156,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Mauvais œil",
+      "page": "257",
+      "range": "Personnelle",
+      "shortDescription": "La cible dans un rayon de 18 m doit réussir un JdS de Sag. ou subir un des effets suivants : sommeil, panique ou fièvre."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3814,7 +4186,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Fabrication",
+      "page": "239",
+      "range": "36m",
+      "shortDescription": "Convertit des matériaux bruts en objets simples de taille G ou inférieure de la même matière."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3846,7 +4221,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Lueurs féeriques",
+      "page": "254",
+      "range": "18m",
+      "shortDescription": "Les créatures dans un cube de 6 m doivent réussir un JdS de Dex. ou octroyer l'avantage contre elles à l'attaque."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3876,7 +4254,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Simulacre de vie",
+      "page": "279",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur gagne 1d4+4 pv temporaires (+5 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3910,7 +4291,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Peur",
+      "page": "269",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cône de 9 m doivent réussir un JdS de Sag. ou lâcher ce qu'elles tiennent, être effrayées et s'enfuir."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -3941,7 +4325,10 @@
         "Mage"
       ],
       "duration": "1 minute",
-      "range": "18m"
+      "name": "Léger comme une plume",
+      "page": "253",
+      "range": "18m",
+      "shortDescription": "Jusqu'à 5 créatures tombent à une vitesse de 18 mètres par round et ne subissent pas de dégâts de chute si le sort est actif."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -3975,7 +4362,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Esprit faible",
+      "page": "237",
+      "range": "45m",
+      "shortDescription": "La cible subit 4d6 dégâts psychiques et doit réussir un JdS d'Int. ou son Charisme et son Intelligence tombent à 1."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4011,7 +4401,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Feindre la mort",
+      "page": "239",
+      "range": "Toucher",
+      "shortDescription": "La cible consentante passe pour morte auprès de toute personne ne faisant pas une inspection approfondie."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -4041,7 +4434,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Appel de familier",
+      "page": "214",
+      "range": "3m",
+      "shortDescription": "Invoque un petit animal qui obéit au lanceur du sort et qui partage ses sens avec lui par télépathie."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -4068,7 +4464,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Trouver une monture",
+      "page": "286",
+      "range": "9m",
+      "shortDescription": "Invoque un esprit sous la forme d'un destrier (cheval, élan, etc) lié par télépathie au lanceur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4100,7 +4499,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 24 heures",
-      "range": "Personnelle"
+      "name": "Trouver un chemin",
+      "page": "286",
+      "range": "Personnelle",
+      "shortDescription": "Détermine le chemin physique le plus court et le plus direct pour atteindre une destination connue."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4131,7 +4533,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Trouver les pièges",
+      "page": "286",
+      "range": "36m",
+      "shortDescription": "Le lanceur sent tous pièges dans un rayon de 36 m, mais le sort donne pas leur localisation."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4162,7 +4567,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Doigt de mort",
+      "page": "234",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Con. ou subir 7d8+30 dégâts nécrotiques. Si elle meurt elle devient un zombi contrôlé."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4191,7 +4599,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Trait de feu",
+      "page": "285",
+      "range": "36m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d10 dégâts de feu (dégâts/niv). Un objet peut prendre feu."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4221,7 +4632,10 @@
         "Sorcier"
       ],
       "duration": "10 minutes",
-      "range": "Personnelle"
+      "name": "Bouclier de feu",
+      "page": "218",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient la résistance aux dégâts de froid ou de feu, et fait subir 2d8 dégâts aux attaquants à 1,50 m qui touchent."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4252,7 +4666,10 @@
         "Ensorceleur"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Tempête de feu",
+      "page": "283",
+      "range": "45m",
+      "shortDescription": "Les créatures dans dix cubes de 3 m doivent réussir un JdS de Dex. ou subir 7d10 dégâts de feu."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4286,7 +4703,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Boule de feu",
+      "page": "219",
+      "range": "45m",
+      "shortDescription": "Les créatures dans un rayon de 6 m doivent réussir un JdS de Dex. ou subir 8d6 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4314,7 +4734,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Lame de feu",
+      "page": "252",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 3d6 dégâts de feu (dégâts/niv). Émet une lumière vive sur 3 m et faible sur 3 m extra."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4346,7 +4769,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Colonne de flamme",
+      "page": "225",
+      "range": "18m",
+      "shortDescription": "Les créatures dans un cylindre de 6 x 12 m doivent réussir un JdS de Dex. ou subir 4d6 de feu et 4d6 radiants (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4378,7 +4804,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Sphère de feu",
+      "page": "280",
+      "range": "18m",
+      "shortDescription": "Les créatures à 3 m d'une sphère de 3 m de diamètre doivent réussir un JdS de Dex. ou subir 2d6 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4408,7 +4837,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Pétrification",
+      "page": "269",
+      "range": "18m",
+      "shortDescription": "La cible à 18 m doit réussir un JdS de Con. ou être entravée, voire pétrifiée après 3 échecs."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4440,7 +4872,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Toucher"
+      "name": "Vol",
+      "page": "289",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient une vitesse de vol de 18 mètres (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4475,7 +4910,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "36m"
+      "name": "Nappe de brouillard",
+      "page": "264",
+      "range": "36m",
+      "shortDescription": "Rend la visibilité nulle dans une sphère de 6 m de rayon (+6 m/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4505,7 +4943,10 @@
         null
       ],
       "duration": "24 heures",
-      "range": "Toucher"
+      "name": "Interdiction",
+      "page": "249",
+      "range": "Toucher",
+      "shortDescription": "Empêche de se téléporter dans la zone protégée et inflige 5d10 dégâts radiants ou nécrotiques à certains types de créatures."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -4537,7 +4978,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "30m"
+      "name": "Cage de force",
+      "page": "220",
+      "range": "30m",
+      "shortDescription": "Crée une cage de 6 m ou une boite de 3 m de force magique qui emprisonne une créature. Évasion possible par magie uniquement."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4571,7 +5015,10 @@
         "Sorcier"
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Prémonition",
+      "page": "270",
+      "range": "Toucher",
+      "shortDescription": "1 créature voit son futur proche, ne peut être surprise et a l'avantage à ses jets. Les attaque contre elle ont un désavantage."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4607,7 +5054,10 @@
         "Rôdeur"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Liberté de mouvement",
+      "page": "253",
+      "range": "Toucher",
+      "shortDescription": "La cible n'est pas affectée dans ses mouvements par un terrain difficile, un sort ou de l'eau."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4640,7 +5090,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Amis",
+      "page": "212",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient l'avantage aux jets de Charisme contre une créature choisie qui ne lui est pas hostile."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4674,7 +5127,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Forme gazeuse",
+      "page": "242",
+      "range": "Toucher",
+      "shortDescription": "La cible se transforme en nuage, obtient une vitesse de vol de 3 m et peut passer par de petits trous."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4706,7 +5162,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Portail",
+      "page": "269",
+      "range": "18m",
+      "shortDescription": "Crée un portail vers un autre plan. Permet aussi d'invoquer une créature d'un autre plan."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4740,7 +5199,10 @@
         "Paladin"
       ],
       "duration": "30 jours",
-      "range": "18m"
+      "name": "Coercition mystique",
+      "page": "224",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et subir 5d10 dégâts psychiques si elle n'obéit pas (durée/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4772,7 +5234,10 @@
         null
       ],
       "duration": "10 jours",
-      "range": "Toucher"
+      "name": "Doux repos",
+      "page": "235",
+      "range": "Toucher",
+      "shortDescription": "Protège un cadavre du pourrissement ou de devenir un mort-vivant."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -4799,7 +5264,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "9m"
+      "name": "Insecte géant",
+      "page": "249",
+      "range": "9m",
+      "shortDescription": "Transforme des insectes (de 10 mille-pattes à 1 scorpion) en créatures géantes qui obéissent aux ordres du lanceur."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4827,7 +5295,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Bagou",
+      "page": "217",
+      "range": "Personnelle",
+      "shortDescription": "Donne 15 à un jet de Charisme et masque les mensonges lors d'une détection magique."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4857,7 +5328,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Globe d'invulnérabilité",
+      "page": "244",
+      "range": "Personnelle",
+      "shortDescription": "Bloque les sorts de niveau 5 ou inférieur dans un rayon de 3 m (seuil/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4889,7 +5363,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Glyphe de protection",
+      "page": "244",
+      "range": "Toucher",
+      "shortDescription": "Un glyphe sur un objet inflige 5d8 dégâts dans un rayon de 4,50 m (dégâts/niv) ou lance un sort niv 3 (niv/niv) si déclenché."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4919,7 +5396,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Baies nourricières",
+      "page": "217",
+      "range": "Toucher",
+      "shortDescription": "Crée jusqu'à 10 baies qui redonnent 1 pv chacune et gardent leur pouvoir durant 24 heures."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -4950,7 +5430,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Liane agrippeuse",
+      "page": "253",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Dex. ou être tirée sur 6 m par la liane."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -4978,7 +5461,10 @@
         "Mage"
       ],
       "duration": "1 minute",
-      "range": "18m"
+      "name": "Graisse",
+      "page": "246",
+      "range": "18m",
+      "shortDescription": "Les créatures dans un carré de 3 m (terrain difficile) doivent réussir un JdS de Dex. pour ne pas tomber."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5013,7 +5499,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Invisibilité supérieure",
+      "page": "250",
+      "range": "Toucher",
+      "shortDescription": "La cible devient invisible durant 1 minute."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5045,7 +5534,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Restoration supérieure",
+      "page": "275",
+      "range": "Toucher",
+      "shortDescription": "Met fin à une condition (charmé, pétrification), à une malédiction, à une réduction de carac ou de pv, ou à un niv d'épuisement."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5073,7 +5565,10 @@
         "Paladin"
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Gardien de la foi",
+      "page": "244",
+      "range": "9m",
+      "shortDescription": "Les créatures hostiles dans un rayon de 3 m autour du gardien créé doivent réussir un JdS de Dex. ou subir 20 dégâts radiants."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5103,7 +5598,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "Toucher"
+      "name": "Protections et sceaux",
+      "page": "272",
+      "range": "Toucher",
+      "shortDescription": "Crée une défense magique qui protège un carré de 15 m. Possibilité de définir un mot de passe pour immuniser des individus."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5132,7 +5630,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Assistance",
+      "page": "216",
+      "range": "Toucher",
+      "shortDescription": "La cible peut ajouter 1d4 à un jet de caractéristique de son choix."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5159,7 +5660,10 @@
         "Clerc"
       ],
       "duration": "1 round",
-      "range": "36m"
+      "name": "Balisage",
+      "page": "217",
+      "range": "36m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 4d6 dégâts radiants (dégâts/niv) et le prochain jet d'attaque aura l'avantage."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5193,7 +5697,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Bourrasque",
+      "page": "220",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures sur une ligne de 18 x 3 m doivent réussir un JdS de For. ou être repoussées de 4,50 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5219,7 +5726,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Grêle d'épines",
+      "page": "246",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un rayon de 1,50 m doivent réussir un JdS de Dex. ou subir 1d10 dégâts perforants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5249,7 +5759,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Sanctification",
+      "page": "276",
+      "range": "Toucher",
+      "shortDescription": "Empêche célestes, élémentaires, fiélons, fées et morts-vivants d'entrer dans un rayon de 18 m et protège/handicape les cibles."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5283,7 +5796,10 @@
         "Sorcier"
       ],
       "duration": "24 heures",
-      "range": "90m"
+      "name": "Terrain hallucinatoire",
+      "page": "284",
+      "range": "90m",
+      "shortDescription": "Fait paraître un terrain naturel pour un autre type (par example une route devient un marais ou une crevasse)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5310,7 +5826,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Contamination",
+      "page": "227",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Con. ou subir 14d6 dégâts nécrotiques. Le sort ne peut pas la tuer toutefois."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5344,7 +5863,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Hâte",
+      "page": "247",
+      "range": "9m",
+      "shortDescription": "La cible voit sa vitesse doublée. Elle gagne aussi un bonus de +2 à la CA, l'avantage aux JdS de Dex. et 1 action extra."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5373,7 +5895,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Guérison",
+      "page": "246",
+      "range": "18m",
+      "shortDescription": "1 créature récupère 70 pv et est guérie des maladies, de l'aveuglement et de la surdité (+10 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5403,7 +5928,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Mot de guérison",
+      "page": "260",
+      "range": "18m",
+      "shortDescription": "1 créature récupère 1d4+Mod.Carac pv (+1d4 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5433,7 +5961,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Chauffer le métal",
+      "page": "223",
+      "range": "18m",
+      "shortDescription": "Les créatures en contact avec l'objet en métal subissent 2d8 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5460,7 +5991,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Représailles infernales",
+      "page": "275",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Dex. ou subir 2d10 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5490,7 +6024,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Festin des héros",
+      "page": "239",
+      "range": "9m",
+      "shortDescription": "Produit un festin pour 12 convives qui guérit des maladies, immunise au poison et augmente les pv de 2d10 durant 24h."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5519,7 +6056,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Héroïsme",
+      "page": "247",
+      "range": "Toucher",
+      "shortDescription": "La cible est immunisée contre la condition effrayé et gagne Mod.Carac.Inc pv temporaires/round (+1 créatures/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5547,7 +6087,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Maléfice",
+      "page": "256",
+      "range": "27m",
+      "shortDescription": "Si une attaque touche, inflige 1d6 dégâts nécrotiques extra. Désavantage à un jet de carac choisi (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5585,7 +6128,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "27m"
+      "name": "Immobiliser un monstre",
+      "page": "249",
+      "range": "27m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être paralysée (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5625,7 +6171,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Immobiliser un humanoïde",
+      "page": "249",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être paralysée (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5653,7 +6202,10 @@
         "Clerc"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Aura sacrée",
+      "page": "217",
+      "range": "Personnelle",
+      "shortDescription": "Les cibles dans un rayon de 9 m ont l'avantage aux JdS. Les autres créatures ont un désavantage à l'attaque contre ces cibles."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5681,7 +6233,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "45m"
+      "name": "Appétit d'Hadar",
+      "page": "214",
+      "range": "45m",
+      "shortDescription": "Les créatures dans une sphère de 6 m de rayon subissent 2d6 de froid et doivent réussir un JdS de Dex. ou subir 2d6 d'acide."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5709,7 +6264,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "27m"
+      "name": "Marque du chasseur",
+      "page": "257",
+      "range": "27m",
+      "shortDescription": "La cible subit 1d6 dégâts extra et le lanceur a l'avantage aux jets de Sagesse (Perception/Survie) pour la trouver (durée/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5742,7 +6300,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Motif hypnotique",
+      "page": "261",
+      "range": "36m",
+      "shortDescription": "Les créatures dans un cube de 9 m doivent réussir un JdS de Sag. ou être charmées et incapables d'agir, avec une vitesse de 0."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5778,7 +6339,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "90m"
+      "name": "Tempête de grêle",
+      "page": "283",
+      "range": "90m",
+      "shortDescription": "Les créatures dans un cylindre de 12 x 12 m doivent réussir un JdS de Dex. ou subir 2d8 dégâts contondants et 4d6 de froid."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5812,7 +6376,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Identification",
+      "page": "247",
+      "range": "Toucher",
+      "shortDescription": "Le lanceur obtient les propriétés d'un objet magique (lien, charges) ou est informé si un sort affecte un objet ou une créature."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -5845,7 +6412,10 @@
         null
       ],
       "duration": "10 jours",
-      "range": "Toucher"
+      "name": "Texte illusoire",
+      "page": "284",
+      "range": "Toucher",
+      "shortDescription": "Rédige un message secret qui ne peut être lu que par une cible désignée ou une créature qui possède vision véritable."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -5875,7 +6445,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "9m"
+      "name": "Emprisonnement",
+      "page": "236",
+      "range": "9m",
+      "shortDescription": "La cible à 9 m doit réussir un JdS de Sag. ou être retenue prisonnière. La forme est à choisir parmi 6 options."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5904,7 +6477,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "45m"
+      "name": "Nuage incendiaire",
+      "page": "264",
+      "range": "45m",
+      "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Dex. ou subir 10d8 dégâts de feu."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5931,7 +6507,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Blessing",
+      "page": "218",
+      "range": "Toucher",
+      "shortDescription": "Si l'attaque touche, inflige subit 3d10 dégâts nécrotiques (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -5963,7 +6542,10 @@
         "Ensorceleur"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "90m"
+      "name": "Fléau d'insectes",
+      "page": "240",
+      "range": "90m",
+      "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Con. ou subir 4d10 dégâts perforants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -5999,7 +6581,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Invisibilité",
+      "page": "250",
+      "range": "Toucher",
+      "shortDescription": "La cible devient invisible 1 heure ou jusqu'à ce qu'elle attaque ou lance un sort (+1 créature/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6033,7 +6618,10 @@
         "Rôdeur"
       ],
       "duration": "1 minute",
-      "range": "Toucher"
+      "name": "Saut",
+      "page": "277",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient une distance de saut multipliée par 3."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6063,7 +6651,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Déblocage",
+      "page": "231",
+      "range": "18m",
+      "shortDescription": "Déverrouille ou débloque 1 objet (porte, coffre, cadenas, menottes, etc) ou supprime le sort verrou magique pour 10 minutes."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6095,7 +6686,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Légende",
+      "page": "252",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur obtient des information sur une personne, un lieu ou un objet sous forme de contes ou d'histoires."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6123,7 +6717,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Coffre secret de Léomund",
+      "page": "225",
+      "range": "Toucher",
+      "shortDescription": "Cache un coffre (90 x 60 x 60 cm) et son contenu dans le plan éthéré."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6155,7 +6752,10 @@
         null
       ],
       "duration": "8 heures",
-      "range": "Personnelle"
+      "name": "Petite hutte de Léomund",
+      "page": "267",
+      "range": "Personnelle",
+      "shortDescription": "Crée un dôme de 3 m de rayon qui peut abriter et protéger 9 créatures de taille M avec le lanceur."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -6190,7 +6790,10 @@
         "Rôdeur"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Restoration inférieure",
+      "page": "275",
+      "range": "Toucher",
+      "shortDescription": "Met fin à une maladie ou à une condition (aveuglé, assourdi, paralysé ou empoisonné) sur 1 créature."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6220,7 +6823,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Lévitation",
+      "page": "253",
+      "range": "18m",
+      "shortDescription": "1 créature ou objet de moins de 250 kg s'élève verticalement jusqu'à 6 m et reste en lévitation."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6253,7 +6859,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Lumière",
+      "page": "255",
+      "range": "Toucher",
+      "shortDescription": "Fait qu'un objet émette une lumière vive sur 6 m et une lumière faible sur 6 m supplémentaires."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6280,7 +6889,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Flèche de foudre",
+      "page": "240",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 4d8 de foudre. Les créatures à 3 m ou moins doivent réussir un JdS de Dex. ou subir 2d8 de foudre."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6312,7 +6924,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Éclair",
+      "page": "235",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures sur une ligne de 30 x 1,50 m doivent réussir un JdS de Dex. ou subir 8d6 dégâts de foudre (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6346,7 +6961,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Localiser des animaux ou des plantes",
+      "page": "254",
+      "range": "Personnelle",
+      "shortDescription": "Donne la direction et la distance à laquelle se trouve un type de bête ou de plante dans un rayon de 7,5 km."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -6384,7 +7002,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Localiser une créature",
+      "page": "254",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur ressent la direction dans laquelle se trouve une créature familière dans un rayon de 300 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6422,7 +7043,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Localiser un objet",
+      "page": "254",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur sent la direction dans laquelle se trouve un objet familier, dans un rayon de 300 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6456,7 +7080,10 @@
         "Rôdeur"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Grande foulée",
+      "page": "246",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient une vitesse augmentée de 3 m (+1 créature/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6486,7 +7113,10 @@
         "Mage"
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Armure du mage",
+      "page": "215",
+      "range": "Toucher",
+      "shortDescription": "La cible, si elle est consentante et ne porte pas d'armure, obtient une CA de 13+Mod.Dex."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6519,7 +7149,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "9m"
+      "name": "Main du mage",
+      "page": "255",
+      "range": "9m",
+      "shortDescription": "Crée une main spectrale qui peut dans un rayon de 9 m manipuler un objet, ouvrir une porte, saisir un objet, etc."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6553,7 +7186,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "3m"
+      "name": "Cercle magique",
+      "page": "222",
+      "range": "3m",
+      "shortDescription": "Crée un cylindre de 6 x 6 m qui protège des célestes, élémentaires, fées, fiélons et/ou morts-vivants (+1 h/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6581,7 +7217,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Personnelle"
+      "name": "Possession",
+      "page": "270",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur projette son âme dans une urne pour ensuite retourner dans son corps ou posséder le corps d'un humanoïde."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6610,7 +7249,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Projectile magique",
+      "page": "271",
+      "range": "36m",
+      "shortDescription": "3 projectiles infligent automatiquement 1d4+1 dégâts de force chacun à une ou plusieurs créatures (+1 projectile/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6642,7 +7284,10 @@
         null
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "9m"
+      "name": "Bouche magique",
+      "page": "218",
+      "range": "9m",
+      "shortDescription": "Crée une bouche magique qui répétera un message de 25 mots max lorsqu'une condition de déclenchement est remplie."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -6673,7 +7318,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Arme magique",
+      "page": "215",
+      "range": "Toucher",
+      "shortDescription": "Transforme une arme en arme magique +1 à l'attaque et aux dégâts (bonus de +2 ou +3/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6707,7 +7355,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Image majeure",
+      "page": "247",
+      "range": "36m",
+      "shortDescription": "Crée l'image d'un objet ou d'une créature animée, avec sons et odeurs (sans concentration/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6738,7 +7389,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Soin des blessures de groupe",
+      "page": "279",
+      "range": "18m",
+      "shortDescription": "Jusqu'à 6 créatures récupèrent 3d8+Mod.Carac.Inc pv (+1d8 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6765,7 +7419,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Guérison de groupe",
+      "page": "246",
+      "range": "18m",
+      "shortDescription": "Plusieurs créatures récupèrent un total de 700 pv et sont guéries des maladies, de l'aveuglement et de la surdité."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6791,7 +7448,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Mot de guérison de groupe",
+      "page": "260",
+      "range": "18m",
+      "shortDescription": "Jusqu'à 6 créatures récupèrent 1d4+Mod.Carac pv (+1d4 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6824,7 +7484,10 @@
         "Sorcier"
       ],
       "duration": "24 heures",
-      "range": "18m"
+      "name": "Suggestion de groupe",
+      "page": "281",
+      "range": "18m",
+      "shortDescription": "Jusqu'à 12 cibles doivent réussir un JdS de Sag. ou suivre la suggestion que leur donne le lanceur (durée/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6851,7 +7514,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Labyrinthe",
+      "page": "252",
+      "range": "18m",
+      "shortDescription": "Bannit une créature dans un demi-plan labyrinthique. Jet d'Intelligence pour s'évader avant la fin du sort."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -6882,7 +7548,10 @@
         null
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Fusion dans la pierre",
+      "page": "244",
+      "range": "Toucher",
+      "shortDescription": "Le lanceur peut pénétrer dans la pierre."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -6912,7 +7581,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "27m"
+      "name": "Flèche acide de Melf",
+      "page": "240",
+      "range": "27m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 4d4 dégâts d'acide, puis 2d4 dégâts d'acide au round suivant (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6948,7 +7620,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Réparation",
+      "page": "274",
+      "range": "Toucher",
+      "shortDescription": "Répare fissure, déchirure, fêlure d'un objet (maillon de chaîne cassé, clé brisée, accroc sur un manteau, fuite d'une gourde)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -6980,7 +7655,10 @@
         "Mage"
       ],
       "duration": "1 round",
-      "range": "36m"
+      "name": "Message",
+      "page": "258",
+      "range": "36m",
+      "shortDescription": "Le lanceur murmure un message à une créature à 36 m qui sera la seule à l'entendre. Elle pourra répondre de la même façon."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7009,7 +7687,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "1.5km"
+      "name": "Nuée de météores",
+      "page": "265",
+      "range": "1.5km",
+      "shortDescription": "Les créatures dans un rayon de 12 m doivent réussir un JdS de Dex. ou subir 20d6 dégâts de feu et 20d6 dégâts contondants."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7038,7 +7719,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "Toucher"
+      "name": "Esprit impénétrable",
+      "page": "237",
+      "range": "Toucher",
+      "shortDescription": "La cible est immunisée contre les dégâts psychiques, la lecture des pensées, les sorts de divination et la condition charmé."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7071,7 +7755,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "9m"
+      "name": "Illusion mineure",
+      "page": "247",
+      "range": "9m",
+      "shortDescription": "Crée l'illusion d'un son ou d'une image immobile pas plus grande qu'un cube de 1,50 m."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7102,7 +7789,10 @@
         "Mage"
       ],
       "duration": "10 jours",
-      "range": "Vue"
+      "name": "Mirage",
+      "page": "259",
+      "range": "Vue",
+      "shortDescription": "Transforme l'apparence (à la vue, à l'ouïe, à l'odorat et au toucher) d'un carré de 1,5 km."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7137,7 +7827,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "Personnelle"
+      "name": "Image miroir",
+      "page": "248",
+      "range": "Personnelle",
+      "shortDescription": "Crée 3 duplicatas illusoires du lanceur qui possèdent chacun une CA de 10+Mod.Dex et sont détruits s'ils sont touchés."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7165,7 +7858,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Tromperie",
+      "page": "286",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur devient invisible et crée un double qui se déplace, agit et parle. Le lanceur peut voir et entendre via ce double."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7199,7 +7895,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Pas brumeux",
+      "page": "266",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur est téléporté jusqu'à 9 mètres."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7230,7 +7929,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Modification de mémoire",
+      "page": "259",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et sa mémoire altérée (ancienneté des souvenirs/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7260,7 +7962,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Rayon de lune",
+      "page": "273",
+      "range": "36m",
+      "shortDescription": "Les créatures dans un cylindre de 3 x 12 m doivent réussir un JdS de Con. ou subir 2d10 dégâts radiants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7288,7 +7993,10 @@
         "Mage"
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Chien de garde de Mordenkainen",
+      "page": "224",
+      "range": "9m",
+      "shortDescription": "Invoque un chien de garde invisible qui aboie à l'approche de créatures et les attaque (4d8 dégâts perforants)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7318,7 +8026,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "90m"
+      "name": "Manoir somptueux de Mordenkainen",
+      "page": "256",
+      "range": "90m",
+      "shortDescription": "Crée un manoir extradimensionnel qui peut abriter le lanceur et d'autres créatures et possède tout le confort."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7346,7 +8057,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "36m"
+      "name": "Sanctuaire privé de Mordenkainen",
+      "page": "277",
+      "range": "36m",
+      "shortDescription": "Crée un cube sécurisé jusqu'à 30 m de côté. Le type de protection est à choisir (+30 m de côté/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7376,7 +8090,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Épée de Mordenkainen",
+      "page": "237",
+      "range": "18m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 3d10 dégâts de force. L'épée peut se déplacer."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7408,7 +8125,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 2 heures",
-      "range": "36m"
+      "name": "Déplacer la terre",
+      "page": "232",
+      "range": "36m",
+      "shortDescription": "Façonne la terre, le sable ou l'argile, mais pas la pierre (élever, abaisser, aplatir, etc) d'un carré de 12 m en 10 min."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7442,7 +8162,10 @@
         "Rôdeur"
       ],
       "duration": "8 heures",
-      "range": "Toucher"
+      "name": "Non-détection",
+      "page": "264",
+      "range": "Toucher",
+      "shortDescription": "Protège une créature ou un objet de toute divination ou détection magique."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7470,7 +8193,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "Toucher"
+      "name": "Aura magique de Nystul",
+      "page": "216",
+      "range": "Toucher",
+      "shortDescription": "Révèle de fausses information au sujet d'une créature ou d'un objet qui serait la cible d'un sort de divination."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7498,7 +8224,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "90m"
+      "name": "Sphère glacée d'Otiluke",
+      "page": "280",
+      "range": "90m",
+      "shortDescription": "Les créatures dans une sphère de 18 m de rayon doivent réussir un JdS de Con. ou subir 10d6 dégâts de froid (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7526,7 +8255,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Sphère résiliente d'Otiluke",
+      "page": "280",
+      "range": "9m",
+      "shortDescription": "La cible de taille G ou inférieure doit réussir un JdS de Dex. ou être emprisonnée pour la durée du sort."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7554,7 +8286,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Danse irrésistible d'Otto",
+      "page": "231",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou danser (désavantage aux JdS de Dex. et à l'attaque)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7586,7 +8321,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Passage sans trace",
+      "page": "266",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur et ses alliés à 9 m ont un bonus de +10 aux jets de Dextérité (Discrétion) et ils ne laissent ni piste ni trace."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7616,7 +8354,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Passe-muraille",
+      "page": "266",
+      "range": "9m",
+      "shortDescription": "Ouvre un passage de 1,50 x 2,50 x 6 m à travers de la pierre, du bois ou du plâtre."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7650,7 +8391,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Force fantasmagorique",
+      "page": "241",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS d'Int. ou percevoir comme réel un objet ou une créature crée par le lanceur (avec son)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7677,7 +8421,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Assassin imaginaire",
+      "page": "216",
+      "range": "36m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être effrayée puis subir 4d10 dégâts psychiques (dégâts/niv) à chacun de ses tours."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7706,7 +8453,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Monture fantôme",
+      "page": "260",
+      "range": "9m",
+      "shortDescription": "Crée une créature semi-réelle de taille G ressemblant à un cheval et tout le nécessaire pour la monter."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -7733,7 +8483,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Allié planaire",
+      "page": "212",
+      "range": "18m",
+      "shortDescription": "Invoque un céleste, un élémentaire ou un fiélon qui aidera le lanceur contre paiement (1000 po/h, sacrifice, quête, etc)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7767,7 +8520,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "18m"
+      "name": "Entrave planaire",
+      "page": "236",
+      "range": "18m",
+      "shortDescription": "La cible (céleste, élémentaire, fée ou fiélon) doit réussir un JdS de Cha. ou servir le lanceur (durée/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7801,7 +8557,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Changement de plan",
+      "page": "223",
+      "range": "Toucher",
+      "shortDescription": "Le lanceur et jusqu'à 8 créatures sont transportés dans un autre plan d'existence, ou une créature est bannie (JdS de Cha)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7838,7 +8597,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Croissance végétale",
+      "page": "231",
+      "range": "45m",
+      "shortDescription": "Les plantes dans la zone croissent avec vigueur, ou sur une année les plantes produisent deux fois plus de nourriture."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7869,7 +8631,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Bouffée de poison",
+      "page": "219",
+      "range": "3m",
+      "shortDescription": "La cible doit réussir un JdS de Con. ou subir 1d12 dégâts de poison (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7905,7 +8670,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "18m"
+      "name": "Métamorphose",
+      "page": "258",
+      "range": "18m",
+      "shortDescription": "Transforme une cible en une nouvelle forme de bête de FP/niveau au plus égal au FP/niveau de la cible."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -7932,7 +8700,10 @@
         "Barde"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Mot de pouvoir guérisseur",
+      "page": "260",
+      "range": "Toucher",
+      "shortDescription": "La cible récupère tous ses points de vie et perd les conditions charmé, effrayé, paralysé et étourdi."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7964,7 +8735,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Mot de pouvoir mortel",
+      "page": "260",
+      "range": "18m",
+      "shortDescription": "La cible (100 pv max) meurt !"
     },
     "isConcentration": false,
     "isRitual": false,
@@ -7996,7 +8770,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Mot de pouvoir étourdissant",
+      "page": "260",
+      "range": "18m",
+      "shortDescription": "La cible (150 pv max) est étourdie jusqu'à ce qu'elle réussisse un JdS de Con."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8022,7 +8799,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Prière de soins",
+      "page": "270",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 6 créatures récupèrent 2d8+Mod.Carac pv (+1d8 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8055,7 +8835,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "3m"
+      "name": "Prestidigitation",
+      "page": "270",
+      "range": "3m",
+      "shortDescription": "Tour de magie (effet sensoriel, allume une torche, nettoie un objet, réchauffe, fait apparaître un symbole, crée une babiole)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8084,7 +8867,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Embruns prismatiques",
+      "page": "235",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cône de 18 m doivent réussir un JdS de Dex. ou subir 10d6 dégâts d'un type déterminé au hasard."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8111,7 +8897,10 @@
         "Mage"
       ],
       "duration": "10 minutes",
-      "range": "18m"
+      "name": "Mur prismatique",
+      "page": "263",
+      "range": "18m",
+      "shortDescription": "Crée un mur de plusieurs couches qui infligent des effets et dégâts différents suivant la couche."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8138,7 +8927,10 @@
         "Druide"
       ],
       "duration": "10 minutes",
-      "range": "Personnelle"
+      "name": "Produire une flamme",
+      "page": "271",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8 dégâts de feu (dégâts/niv). Émet une lumière vive sur 3 m et faible sur 3 m extra."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8168,7 +8960,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "36m"
+      "name": "Illusion programmée",
+      "page": "247",
+      "range": "36m",
+      "shortDescription": "Crée l'image d'un objet ou d'une créature animée, avec sons, durant 5 min, suite à un déclencheur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8198,7 +8993,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 24 heures",
-      "range": "750km"
+      "name": "Image projetée",
+      "page": "248",
+      "range": "750km",
+      "shortDescription": "Crée un double du lanceur qui l'imite, se déplace et émet des sons. Le lanceur peut voir et entendre à travers ce double."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8235,7 +9033,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Protection contre l'énergie",
+      "page": "271",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient la résistance à un type de dégâts (acide, froid, feu, foudre ou tonnerre)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8269,7 +9070,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Toucher"
+      "name": "Protection contre le mal et le bien",
+      "page": "271",
+      "range": "Toucher",
+      "shortDescription": "La cible est protégée (désavantage à l'attaque) des aberrations, célestes, élémentaires, fées, fiélons et morts-vivants."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8302,7 +9106,10 @@
         "Rôdeur"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Protection contre le poison",
+      "page": "272",
+      "range": "Toucher",
+      "shortDescription": "Neutralise 1 poison d'une créature, donne l'avantage aux JdS pour ne pas être empoisonné et la résistance aux dégâts de poison."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8335,7 +9142,10 @@
         null
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Purification de la nourriture et de l'eau",
+      "page": "272",
+      "range": "3m",
+      "shortDescription": "Purifie et enlève tous poisons et maladies de nourriture et boissons non magiques dans une sphère de 1,50 m de rayon."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -8367,7 +9177,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Relever les morts",
+      "page": "274",
+      "range": "Toucher",
+      "shortDescription": "Ramène à la vie (1 pv) une créature morte depuis moins de 10 jours. Ne restaure pas les parties du corps amputées."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8397,7 +9210,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Lien télépathique de Rary",
+      "page": "254",
+      "range": "9m",
+      "shortDescription": "Crée un lien télépathique entre un maximum de 8 personnes dans un rayon de 9 m pendant 1 heure."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -8426,7 +9242,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "18m"
+      "name": "Rayon affaiblissant",
+      "page": "272",
+      "range": "18m",
+      "shortDescription": "Si l'attaque avec un sort touche, la cible n'inflige que la moitié des dégâts avec une arme qui use la Force (JdS de Con)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8455,7 +9274,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Rayon de givre",
+      "page": "273",
+      "range": "18m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8 dégâts de froid (dégâts/niv) et la vitesse de la cible est réduite de 3 m."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8484,7 +9306,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Rayon empoisonné",
+      "page": "274",
+      "range": "18m",
+      "shortDescription": "Si l'attaque touche, inflige 2d8 dégâts de poison (dégâts/niv) et la cible peut être empoisonnée (JdS de Con)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8516,7 +9341,10 @@
         "Druide"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Régénération",
+      "page": "274",
+      "range": "Toucher",
+      "shortDescription": "La cible récupère 4d8+15 pv puis 1 pv par round et ses membres sectionnés repoussent."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8544,7 +9372,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Réincarnation",
+      "page": "274",
+      "range": "Toucher",
+      "shortDescription": "Réincarne l'âme d'un humanoïde mort depuis 10 jours max. La race du nouveau corps est déterminée au hasard."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8577,7 +9408,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Lever une malédiction",
+      "page": "253",
+      "range": "Toucher",
+      "shortDescription": "Met fin à toutes les malédictions affligeant une créature ou un objet."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8607,7 +9441,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Résistance",
+      "page": "275",
+      "range": "Toucher",
+      "shortDescription": "La cible peut ajouter 1d4 à un jet de sauvegarde de son choix."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8637,7 +9474,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Résurrection",
+      "page": "276",
+      "range": "Toucher",
+      "shortDescription": "Ramène à la vie (pv max) une créature morte depuis moins de 100 ans (sauf vieillesse). Restaure les parties du corps amputées."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8669,7 +9509,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "30m"
+      "name": "Inversion de la gravité",
+      "page": "250",
+      "range": "30m",
+      "shortDescription": "Inverse la gravité dans un cylindre de 30 x 30 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8699,7 +9542,10 @@
         "Paladin"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Revigorer",
+      "page": "276",
+      "range": "Toucher",
+      "shortDescription": "Ramène à 1 pv une créature morte depuis 1 minute ou moins (sauf vieillesse)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8727,7 +9573,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Corde enchantée",
+      "page": "229",
+      "range": "Toucher",
+      "shortDescription": "Fait se dresser verticalement une corde qui donne dans un espace extradimensionnel qui peut contenir 8 créatures de taille M."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8754,7 +9603,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Flamme sacrée",
+      "page": "240",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Dex. ou subir 1d8 dégâts radiant (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8784,7 +9636,10 @@
         "Paladin"
       ],
       "duration": "1 minute",
-      "range": "9m"
+      "name": "Sanctuaire",
+      "page": "277",
+      "range": "9m",
+      "shortDescription": "La cible a droit à un JdS de Sag. pour éviter les attaques ou les sorts ofensifs qui la visent en particulier."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8817,7 +9672,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "36m"
+      "name": "Rayon ardent",
+      "page": "272",
+      "range": "36m",
+      "shortDescription": "Si les attaques touchent, 3 rayons infligent chacun 2d6 dégâts de feu (+1 rayon/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8855,7 +9713,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Scrutation",
+      "page": "277",
+      "range": "Personnelle",
+      "shortDescription": "Permet de voir et entendre une créature spécifique (on peut aussi cibler un lieu) sur le même plan (JdS de Sag)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8881,7 +9742,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe ardente",
+      "page": "242",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 1d6 dégâts de feu extra et enflamme la cible (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -8913,7 +9777,10 @@
         "Mage"
       ],
       "duration": "1 heure",
-      "range": "Personnelle"
+      "name": "Voir l'invisible",
+      "page": "289",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur voit les créatures ou objets invisibles, et dans le plan éthéré."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8946,7 +9813,10 @@
         "Sorcier"
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Apparence trompeuse",
+      "page": "214",
+      "range": "9m",
+      "shortDescription": "Change l'apparence physique et vestimentaire de cibles (JdS si non consentante)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -8980,7 +9850,10 @@
         "Sorcier"
       ],
       "duration": "1 round",
-      "range": "Illimité"
+      "name": "Envoi de message",
+      "page": "237",
+      "range": "Illimité",
+      "shortDescription": "Envoie un message de 25 mots à une créature familière, quelle que soit la distance ou le plan. Elle peut y répondre."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9008,7 +9881,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Séquestration",
+      "page": "278",
+      "range": "Toucher",
+      "shortDescription": "Protège une créature consentante (qui devient invisible et inconsciente) ou un objet contre les sorts de divination."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9038,7 +9914,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Personnelle"
+      "name": "Changement de forme",
+      "page": "222",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur prend la forme d'une créature qu'il a déjà vue d'un FP égal ou inférieur à son niveau."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9074,7 +9953,10 @@
         "Sorcier"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Briser",
+      "page": "220",
+      "range": "18m",
+      "shortDescription": "Les créatures dans une sphère de 3 m de rayon doivent réussir un JdS de Con. ou subir 3d8 dégâts de tonnerre (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9103,7 +9985,10 @@
         "Mage"
       ],
       "duration": "1 round",
-      "range": "Personnelle"
+      "name": "Bouclier",
+      "page": "218",
+      "range": "Personnelle",
+      "shortDescription": "En réaction, la lanceur gagne un bonus de +5 à la CA et ne prend aucun dégât du sort projectile magique."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9133,7 +10018,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Bouclier de la foi",
+      "page": "218",
+      "range": "18m",
+      "shortDescription": "La cible obtient un bonus de +2 de CA."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9161,7 +10049,10 @@
         "Druide"
       ],
       "duration": "1 minute",
-      "range": "Toucher"
+      "name": "Gourdin magique",
+      "page": "246",
+      "range": "Toucher",
+      "shortDescription": "Rend magique une arme en bois. Ses dégâts sont des d8 et le lanceur peut utiliser sa carac d'incantation au lieu de la Force."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9190,7 +10081,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Poigne électrique",
+      "page": "269",
+      "range": "Toucher",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8 dégâts de foudre (dégâts/niv) et la cible ne peut pas prendre de réaction."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9225,7 +10119,10 @@
         null
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Silence",
+      "page": "278",
+      "range": "36m",
+      "shortDescription": "Bloque tous les sons dans une sphère de 6m de rayon."
     },
     "isConcentration": true,
     "isRitual": true,
@@ -9257,7 +10154,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Image silencieuse",
+      "page": "248",
+      "range": "18m",
+      "shortDescription": "Crée l'image d'un objet ou d'une créature (sans son et de la taille d'un cube de 4,50 m max) et permet de la faire bouger."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9285,7 +10185,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Simulacre",
+      "page": "278",
+      "range": "Toucher",
+      "shortDescription": "Crée un double d'une bête ou d'un humanoïde avec les mêmes capacités, la moitié des pv et sans équipement."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9319,7 +10222,10 @@
         "Sorcier"
       ],
       "duration": "1 minute",
-      "range": "27m"
+      "name": "Sommeil",
+      "page": "279",
+      "range": "27m",
+      "shortDescription": "5d8 pv de créatures s'endorment, par ordre croissant de leurs pv actuels (+2d8 pv/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9353,7 +10259,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "45m"
+      "name": "Tempête de neige",
+      "page": "283",
+      "range": "45m",
+      "shortDescription": "Les créatures dans un cylindre de 12 x 6 m (visibilité nulle) doivent réussir un JdS de Dex. ou tomber à terre."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9385,7 +10294,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Lenteur",
+      "page": "253",
+      "range": "36m",
+      "shortDescription": "Jusqu'à 6 cibles doivent réussir un JdS de Sag. ou avoir leur vitesse et leurs actions réduites, -2 en CA et aux JdS de Dex."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9412,7 +10324,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Épargner les mourants",
+      "page": "237",
+      "range": "Toucher",
+      "shortDescription": "1 créature vivante à 0 point de vie est immédiatement stabilisée."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9449,7 +10364,10 @@
         null
       ],
       "duration": "10 minutes",
-      "range": "Personnelle"
+      "name": "Communication avec les animaux",
+      "page": "225",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur communique avec des bêtes qui peuvent ainsi partager des information ou aider."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -9479,7 +10397,10 @@
         "Clerc"
       ],
       "duration": "10 minutes",
-      "range": "3m"
+      "name": "Communication avec les morts",
+      "page": "225",
+      "range": "3m",
+      "shortDescription": "Permet à un cadavre qui possède encore une bouche et n'est pas un mort-vivant de répondre à 5 questions du lanceur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9510,7 +10431,10 @@
         "Rôdeur"
       ],
       "duration": "10 minutes",
-      "range": "Personnelle"
+      "name": "Communication avec les plantes",
+      "page": "225",
+      "range": "Personnelle",
+      "shortDescription": "Le lanceur peut communiquer avec des plantes à 9 m, et transforme un terrain difficile en un terrain ordinaire ou l'inverse."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9544,7 +10468,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Pattes d'araignée",
+      "page": "267",
+      "range": "Toucher",
+      "shortDescription": "La cible peut se déplacer le long de surfaces verticales tout en laissant ses mains libres et gagne une vitesse d'escalade."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9576,7 +10503,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "45m"
+      "name": "Croissance d'épines",
+      "page": "231",
+      "range": "45m",
+      "shortDescription": "Les créatures dans un rayon de 6 m (terrain difficile) subissent 2d4 dégâts perforants pour chaque 1,50 m de déplacement."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9604,7 +10534,10 @@
         "Clerc"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "Personnelle"
+      "name": "Esprits gardiens",
+      "page": "238",
+      "range": "Personnelle",
+      "shortDescription": "Les cibles dans un rayon de 4,50 m doivent réussir un JdS de Sag. ou subir 3d8 dégâts radiants ou nécrotiques (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9631,7 +10564,10 @@
         "Clerc"
       ],
       "duration": "1 minute",
-      "range": "18m"
+      "name": "Arme spirituelle",
+      "page": "215",
+      "range": "18m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8+Mod.Carac dégâts de force (dégâts/niv). Une action bonus permet une autre attaque."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9657,7 +10593,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe assommante",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 4d6 dégâts psychiques extra et la cible doit réussir un JdS de Sag. ou avoir un désavantage."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9693,7 +10632,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "27m"
+      "name": "Nuage puant",
+      "page": "265",
+      "range": "27m",
+      "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Con. ou être prises de nausée et perdre leur action."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9725,7 +10667,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Façonnage de la pierre",
+      "page": "239",
+      "range": "Toucher",
+      "shortDescription": "Donne à un bloc de pierre de 1,50 m de côté n'importe quelle forme, ou y crée une ouverture."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9763,7 +10708,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "Toucher"
+      "name": "Peau de pierre",
+      "page": "267",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient la résistante aux dégâts non magiques contondants, perforants et tranchants."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9790,7 +10738,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Vue"
+      "name": "Tempête vengeresse",
+      "page": "283",
+      "range": "Vue",
+      "shortDescription": "Les créatures dans un rayon de 108 m doivent réussir un JdS de Con. ou être assourdies et subir divers dégâts et effets."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9825,7 +10776,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 8 heures",
-      "range": "9m"
+      "name": "Suggestion",
+      "page": "281",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou suivre la suggestion que lui donne le lanceur en une ou deux phrases."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9857,7 +10811,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Rayon de soleil",
+      "page": "273",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures sur une ligne de 1,50 x 18 m doivent réussir un JdS de Con. ou subir 6d8 radiants et être aveuglées."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9889,7 +10846,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "45m"
+      "name": "Éclat du soleil",
+      "page": "235",
+      "range": "45m",
+      "shortDescription": "Les créatures dans un rayon de 18 m doivent réussir un JdS de Con. ou subir 12d6 dégâts radiants et être aveuglées 1 min."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9917,7 +10877,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Toucher"
+      "name": "Carquois magique",
+      "page": "221",
+      "range": "Toucher",
+      "shortDescription": "Fait qu'un carquois produise constamment des munitions non magiques, permettant 2 attaques par round en action bonus."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -9949,7 +10912,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à dissipation",
-      "range": "Toucher"
+      "name": "Symbole",
+      "page": "281",
+      "range": "Toucher",
+      "shortDescription": "Défini le déclencheur et l'effet d'un glyphe sur un objet (mort, discorde, peur, désespoir, démence, douleur, sommeil, etc)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -9981,7 +10947,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Fou rire de Tasha",
+      "page": "242",
+      "range": "9m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou être prise d'une intense crise de fou rire, tomber à terre et être incapable d'agir."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10012,7 +10981,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "18m"
+      "name": "Télékinésie",
+      "page": "282",
+      "range": "18m",
+      "shortDescription": "Déplace une créature (taille TG max) ou un objet (jusqu'à 500 kg) par la pensée en cas de jet d'opposition réussi."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10040,7 +11012,10 @@
         "Mage"
       ],
       "duration": "24 heures",
-      "range": "Illimité"
+      "name": "Télépathie",
+      "page": "282",
+      "range": "Illimité",
+      "shortDescription": "Communique par télépathie avec une créature connue et consentante sur le même plan d'existence."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10070,7 +11045,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "3m"
+      "name": "Téléportation",
+      "page": "282",
+      "range": "3m",
+      "shortDescription": "Le lanceur et 8 créatures sont téléportés n'importe où sur le même plan. Risque d'échec selon la familiarité de la destination."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10101,7 +11079,10 @@
         "Mage"
       ],
       "duration": "1 round",
-      "range": "3m"
+      "name": "Cercle de téléportation",
+      "page": "221",
+      "range": "3m",
+      "shortDescription": "Crée un cercle permettant à quiconque d’être téléporté vers un autre cercle de téléportation connu du lanceur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10131,7 +11112,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Disque flottant de Tenser",
+      "page": "233",
+      "range": "9m",
+      "shortDescription": "Crée un plateau flottant de 90 cm de diamètre qui peut supporter jusqu'à 250 kg et suit le lanceur."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -10157,7 +11141,10 @@
         "Clerc"
       ],
       "duration": "1 minute",
-      "range": "9m"
+      "name": "Thaumaturgie",
+      "page": "285",
+      "range": "9m",
+      "shortDescription": "Crée divers effets mineurs visant à impressionner ou distraire des créatures."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10185,7 +11172,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "9m"
+      "name": "Fouet épineux",
+      "page": "242",
+      "range": "9m",
+      "shortDescription": "Si l'attaque touche, inflige 1d6 dégâts perforant et tire la cible (taille G max) sur 3 m (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10211,7 +11201,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe tonitruante",
+      "page": "244",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 2d6 dégâts de tonnerre extra, et la cible doit réussir un JdS de For. ou tomber à terre."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10246,7 +11239,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Vague tonnante",
+      "page": "288",
+      "range": "Personnelle",
+      "shortDescription": "Les créatures dans un cube de 4,50 m doivent réussir un JdS de Con. ou subir 2d8 dégâts de tonnerre (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10274,7 +11270,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Arrêt du temps",
+      "page": "215",
+      "range": "Personnelle",
+      "shortDescription": "Arrête le temps durant 1d4+1 tours pour tout le monde sauf pour le lanceur."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10309,7 +11308,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Langues",
+      "page": "252",
+      "range": "Toucher",
+      "shortDescription": "La cible comprend et parle toutes les langues parlées qu'elle entend."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10336,7 +11338,10 @@
         "Druide"
       ],
       "duration": "1 round",
-      "range": "3m"
+      "name": "Transport végétal",
+      "page": "285",
+      "range": "3m",
+      "shortDescription": "Le lanceur peut passer d'une plante à une autre plante (taille G ou supérieure) en utilisant 1,50 m."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10369,7 +11374,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Passage par les arbres",
+      "page": "266",
+      "range": "Personnelle",
+      "shortDescription": "La lanceur peut passer d'un arbre à un autre arbre de la même espèce (150 m max entre les deux) en utilisant 1,50 m."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10401,7 +11409,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "9m"
+      "name": "Métamorphose suprême",
+      "page": "258",
+      "range": "9m",
+      "shortDescription": "Transforme une créature ou un objet en une nouvelle forme (créature &lt;-> objet) de FP/niv au plus égal au FP/niv de la créa"
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10431,7 +11442,10 @@
         "Druide"
       ],
       "duration": "Instantané",
-      "range": "Toucher"
+      "name": "Résurrection suprême",
+      "page": "276",
+      "range": "Toucher",
+      "shortDescription": "Ramène à la vie (pv max) une créature morte depuis moins de 200 ans (sauf vieillesse), même si le corps original n'existe plus."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10467,7 +11481,10 @@
         "Sorcier"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Vision suprême",
+      "page": "289",
+      "range": "Toucher",
+      "shortDescription": "La cible obtient vision véritable, voit les portes secrètes magiques et dans le plan éthéré."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10499,7 +11516,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 round",
-      "range": "9m"
+      "name": "Viser juste",
+      "page": "289",
+      "range": "9m",
+      "shortDescription": "Le lanceur obtient l'avantage à son prochain jet d'attaque contre une cible."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10526,7 +11546,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 6 rounds",
-      "range": "Vue"
+      "name": "Tsunami",
+      "page": "288",
+      "range": "Vue",
+      "shortDescription": "Les créatures dans une zone de 90 x 90 x 15 m doivent réussir un JdS de For. ou subir 6d10 dégâts contondants."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10560,7 +11583,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "18m"
+      "name": "Serviteur invisible",
+      "page": "278",
+      "range": "18m",
+      "shortDescription": "Crée un serviteur invisible qui exécute des tâches simples (rapporter qq chose, nettoyer, entretenir un feu, servir, etc)."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -10589,7 +11615,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Caresse du vampire",
+      "page": "220",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 3d6 dégâts nécrotiques (dégâts/niv) et le lanceur récupère 50% de ces pv ."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10615,7 +11644,10 @@
         "Barde"
       ],
       "duration": "Instantané",
-      "range": "18m"
+      "name": "Moquerie cruelle",
+      "page": "260",
+      "range": "18m",
+      "shortDescription": "La cible doit réussir un JdS de Sag. ou subir 1d4 dégâts psychiques et avoir un désavantage à sa prochaine attaque (dégâts/niv)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10651,7 +11683,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Mur de feu",
+      "page": "261",
+      "range": "36m",
+      "shortDescription": "Crée un mur de feu de 18 m x 6 m x 30 cm. Les créatures dans ou à 3 m du mur d'un côté subissent 5d8 dégâts de feu (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10679,7 +11714,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Mur de force",
+      "page": "261",
+      "range": "36m",
+      "shortDescription": "Crée un mur de force infranchissable physiquement (dix panneaux de 3 m) immunisé à tous les types de dégâts."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10707,7 +11745,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Mur de glace",
+      "page": "261",
+      "range": "36m",
+      "shortDescription": "Crée un mur de glace (dix panneaux de 3 m) qui peut être détruit et peut infliger 5d6 de froid si on le traverse (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10739,7 +11780,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Mur de pierre",
+      "page": "263",
+      "range": "36m",
+      "shortDescription": "Crée un mur de pierre non magique de (dix panneaux de 3 m) qui peut être détruit."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10767,7 +11811,10 @@
         "Druide"
       ],
       "duration": "Jusqu'à 10 minutes",
-      "range": "36m"
+      "name": "Mur d'épines",
+      "page": "261",
+      "range": "36m",
+      "shortDescription": "Crée un mur de broussailles de 18 x 3 x 1,50 m qui ralentit les mouvements et peut infliger 7d8 dégâts tranchants (dégâts/niv)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10795,7 +11842,10 @@
         "Clerc"
       ],
       "duration": "1 heure",
-      "range": "Toucher"
+      "name": "Lien de protection",
+      "page": "254",
+      "range": "Toucher",
+      "shortDescription": "La cible gagne +1 à la CA, +1 aux JdS et la résistance à tous les dégâts, mais le lanceur partage ses dégâts."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10831,7 +11881,10 @@
         null
       ],
       "duration": "24 heures",
-      "range": "9m"
+      "name": "Respiration aquatique",
+      "page": "275",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 10 créatures obtiennent la capacité de respirer sous l'eau."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -10867,7 +11920,10 @@
         null
       ],
       "duration": "1 heure",
-      "range": "9m"
+      "name": "Marche sur l'eau",
+      "page": "257",
+      "range": "9m",
+      "shortDescription": "Jusqu'à 10 créatures peuvent se déplacer sur une surface liquide (eau, acide, boue, lave, etc) comme si c'était un sol normal."
     },
     "isConcentration": false,
     "isRitual": true,
@@ -10899,7 +11955,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 heure",
-      "range": "18m"
+      "name": "Toile d'araignée",
+      "page": "285",
+      "range": "18m",
+      "shortDescription": "Crée un cube de 6 m de toiles d'araignées collantes (terrain difficile) qui peuvent entraver des créatures (JdS de Dex)."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10926,7 +11985,10 @@
         "Mage"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Étrangeté",
+      "page": "238",
+      "range": "36m",
+      "shortDescription": "Les créatures dans un rayon de 9 m doivent réussir un JdS de Sag. ou être effrayées et subir 4d10 psychiques à leur tour."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -10954,7 +12016,10 @@
         "Druide"
       ],
       "duration": "8 heures",
-      "range": "9m"
+      "name": "Marche sur le vent",
+      "page": "257",
+      "range": "9m",
+      "shortDescription": "Le lanceur et 10 créatures sont transformés en vapeur (vitesse de vol de 90 m et résistance aux dégâts d'armes non magiques)."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -10986,7 +12051,10 @@
         "Rôdeur"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "36m"
+      "name": "Mur de vent",
+      "page": "263",
+      "range": "36m",
+      "shortDescription": "Crée un mur de vent de 15 m x 4,50 m x 30 cm. Flèches et carreaux sont détournés."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -11014,7 +12082,10 @@
         "Mage"
       ],
       "duration": "Instantané",
-      "range": "Personnelle"
+      "name": "Souhait",
+      "page": "279",
+      "range": "Personnelle",
+      "shortDescription": "Duplique un sort de niveau 8 ou inférieur sans composantes, ou crée un autre effet à la discrétion du MD."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -11046,7 +12117,10 @@
         "Sorcier"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "9m"
+      "name": "Carreau ensorcelé",
+      "page": "221",
+      "range": "9m",
+      "shortDescription": "Si l'attaque avec un sort touche, inflige 1d12 dégâts de foudre (dégâts/niv) à chaque round."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -11072,7 +12146,10 @@
         "Clerc"
       ],
       "duration": "Instantané",
-      "range": "1.5m"
+      "name": "Mot de retour",
+      "page": "260",
+      "range": "1.5m",
+      "shortDescription": "Le lanceur et jusqu'à 5 autres créatures sont téléportés dans un sanctuaire préalablement choisi."
     },
     "isConcentration": false,
     "isRitual": false,
@@ -11098,7 +12175,10 @@
         "Paladin"
       ],
       "duration": "Jusqu'à 1 minute",
-      "range": "Personnelle"
+      "name": "Frappe colérique",
+      "page": "243",
+      "range": "Personnelle",
+      "shortDescription": "Si l'attaque touche, inflige 1d6 dégâts psychiques extra et la cible doit réussir un JdS de Sag. ou être effrayée."
     },
     "isConcentration": true,
     "isRitual": false,
@@ -11129,7 +12209,10 @@
         "Paladin"
       ],
       "duration": "10 minutes",
-      "range": "18m"
+      "name": "Zone de vérité",
+      "page": "289",
+      "range": "18m",
+      "shortDescription": "Les créatures dans une sphère de 4,50 m de rayon doivent réussir un JdS de Cha. ou ne pas pouvoir mentir."
     },
     "isConcentration": false,
     "isRitual": false,
