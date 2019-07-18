@@ -2,7 +2,10 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "description": "Machine-readable list of D&D 5e spells",
   "devDependencies": {
-    "aberlaas": "^0.1.2"
+    "aberlaas": "^0.1.5",
+    "conversions": "^1.5.2",
+    "firost": "^0.5.1",
+    "golgoth": "^0.1.4"
   },
   "license": "MIT",
   "main": "index.js",
