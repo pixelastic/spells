@@ -26,6 +26,6 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "dependencies": {}
 }
