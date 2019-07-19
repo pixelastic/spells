@@ -47,11 +47,11 @@ npm install dnd5-spells
 
 The module exports an object where each key is a specific spell. Keys are camel
 cased versions of the spell (for example, the "Acid Splash" spell is available
-through is `.acidSplash`).
+through `.acidSplash`).
 
 Each spell also contains a `.fr` key, containing localized data in french, for
-when it differs from the original data. For example, range uses the metric
-system in french, and page number match the french PHB. Spell name, classes,
+when it differs from the original data. For example, french range uses the
+metric system, and page number match the french PHB. Spell name, classes,
 casting time and durations are also localized.
 
 Note that french localized version contain a short description of the spell and
