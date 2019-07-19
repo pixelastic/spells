@@ -22,7 +22,9 @@
     "lint:js:fix": "./scripts/lint-js-fix",
     "lint:json": "./scripts/lint-json",
     "lint:json:fix": "./scripts/lint-json-fix",
-    "release": "./scripts/release"
+    "release": "./scripts/release",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
   },
   "version": "0.0.1",
   "dependencies": {}
