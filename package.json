@@ -1,30 +1,29 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
-  "description": "Machine-readable list of D&D 5e spells",
+  "description": "Dungeon & Dragons 5e spells as a node module",
   "devDependencies": {
-    "aberlaas": "^0.1.5",
-    "conversions": "^1.5.2",
-    "firost": "^0.5.1",
+    "aberlaas": "0.1.6",
+    "firost": "0.6.0",
     "golgoth": "^0.1.4"
   },
   "license": "MIT",
-  "main": "index.js",
+  "files": [
+    "build/"
+  ],
+  "main": "build/index.js",
   "name": "dnd5-spells",
   "repository": "git@github.com:pixelastic/dnd5-spells.git",
   "scripts": {
     "build": "./scripts/build",
     "build:watch": "./scripts/build-watch",
     "lint": "./scripts/lint",
-    "lint:css": "./scripts/lint-css",
-    "lint:css:fix": "./scripts/lint-css-fix",
     "lint:fix": "./scripts/lint-fix",
     "lint:js": "./scripts/lint-js",
     "lint:js:fix": "./scripts/lint-js-fix",
     "lint:json": "./scripts/lint-json",
     "lint:json:fix": "./scripts/lint-json-fix",
-    "release": "./scripts/release",
-    "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch"
+    "release": "./scripts/release"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {}
 }

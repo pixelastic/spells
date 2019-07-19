@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+set -e
+
+aberlaas build "$@"
+cp -f ./lib/data.json ./build/data.json
