@@ -1,7 +1,13 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "description": "Dungeon & Dragons 5e spells as a node module",
-  "keywords": ["spells", "dnd", "d&d", "dungeons and dragons", "5e"],
+  "keywords": [
+    "spells",
+    "dnd",
+    "d&d",
+    "dungeons and dragons",
+    "5e"
+  ],
   "devDependencies": {
     "aberlaas": "0.1.6",
     "firost": "0.6.0",
@@ -27,6 +33,6 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {}
 }
