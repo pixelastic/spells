@@ -56,6 +56,7 @@
       "range": "9m",
       "shortDescription": "Jusqu'à 3 créatures augmentent leurs pv actuels et pv max de 5 (+5 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, a targets hit points increase by an additional 5 for each slot level above 2nd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -197,6 +198,7 @@
       "range": "9m",
       "shortDescription": "Une bête de taille TP va livrer un message de 25 mots à une cible (+48 h/niv)."
     },
+    "higherLevel": "If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.",
     "isConcentration": false,
     "isRitual": true,
     "level": 2,
@@ -260,6 +262,7 @@
       "range": "3m",
       "shortDescription": "Crée un squelette à partir d'os ou un zombi à partir d'un cadavre, qui est sous le contrôle du lanceur (+2 créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -294,6 +297,7 @@
       "range": "36m",
       "shortDescription": "Anime jusqu'à 10 objets non magiques et contrôle leurs actions jusqu'à 150 m (+2 objets/niv)."
     },
+    "higherLevel": "If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -772,6 +776,7 @@
       "range": "9m",
       "shortDescription": "Jusqu'à 3 cibles doivent réussir un JdS de Cha. ou soustraire 1d4 à l'attaque ou à la sauvegarde (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
     "isConcentration": true,
     "isRitual": false,
     "level": 1,
@@ -840,6 +845,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Cha. ou être envoyée sur un demi-plan non-dangereux (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -974,6 +980,7 @@
       "range": "Toucher",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou subir un effet comme un désavantage à un jet ou perdre une action (durée/niv)."
     },
+    "higherLevel": "If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesnt require concentration.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -1104,6 +1111,7 @@
       "range": "9m",
       "shortDescription": "Jusqu'à 3 cibles peuvent ajouter 1d4 à leur jet d'attaque ou de sauvegarde (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
     "isConcentration": true,
     "isRitual": false,
     "level": 1,
@@ -1140,6 +1148,7 @@
       "range": "9m",
       "shortDescription": "La cible doit réussir un JdS de Con. ou subir 8d8 dégâts nécrotiques (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 5th level of higher, the damage increases by 1d8 for each slot level above 4th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 4,
@@ -1206,6 +1215,7 @@
       "range": "9m",
       "shortDescription": "La cible doit réussir un JdS de Con. ou devenir aveuglée ou assourdie (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -1340,6 +1350,7 @@
       "range": "Personnelle",
       "shortDescription": "Les créatures dans un cône de 4,50 m doivent réussir un JdS de Dex. ou subir 3d6 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -1372,6 +1383,7 @@
       "range": "36m",
       "shortDescription": "Les créatures dans un rayon de 1,50 m doivent réussir un JdS de Dex. ou subir 3d10 dégâts de foudre (dégâts/niv) à chaque tour."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -1439,6 +1451,7 @@
       "range": "45m",
       "shortDescription": "Jusqu'à 4 cibles différentes doivent réussir un JdS de Dex. ou subir 10d8 dégâts de foudre (+1 cible/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -1479,6 +1492,7 @@
       "range": "9m",
       "shortDescription": "La cible humanoïde doit réussir un JdS de Sag. ou être charmée par le lanceur (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -1581,6 +1595,7 @@
       "range": "45m",
       "shortDescription": "Les créatures dans une sphère de 18 m de rayon doivent réussir un JdS de Con. ou subir 8d6 dégâts nécrotiques (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -1751,6 +1766,7 @@
       "range": "36m",
       "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Con. ou subir 5d8 dégâts de poison (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -1784,6 +1800,7 @@
       "range": "Personnelle",
       "shortDescription": "6d10 pv de créatures sont éblouies par ordre croissant de leurs pv actuels (+2d10 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -1817,6 +1834,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou suivre votre ordre comme Approche, Lâche, Fuis, Tombe, Halte, etc (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -2021,6 +2039,7 @@
       "range": "Personnelle",
       "shortDescription": "Les créatures dans un cône de 18 m doivent réussir un JdS de Con. ou subir 8d8 dégâts de froid (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -2060,6 +2079,7 @@
       "range": "27m",
       "shortDescription": "Les créatures dans un rayon de 3 m doivent réussir un JdS de Sag. ou ne plus pouvoir agir normalement (+1,50 m de rayon/niv)."
     },
+    "higherLevel": "When you cast this spell using a level spell slot 5 or more, the radius of the sphere increases by 5 feet for each level of higher spell slot to 4.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -2092,6 +2112,7 @@
       "range": "18m",
       "shortDescription": "Invoque de 1 bête FP 2 à 8 bêtes FP 1/4 amicales (nbre de créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -2153,6 +2174,7 @@
       "range": "27m",
       "shortDescription": "Invoque 1 céleste FP 4 amical (FP +1/niv)."
     },
+    "higherLevel": "When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.",
     "isConcentration": true,
     "isRitual": false,
     "level": 7,
@@ -2186,6 +2208,7 @@
       "range": "27m",
       "shortDescription": "Invoque 1 élémentaire FP 5 amical (FP +1/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -2218,6 +2241,7 @@
       "range": "27m",
       "shortDescription": "Invoque 1 fée FP 6 amicale (FP +1/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 6,
@@ -2250,6 +2274,7 @@
       "range": "27m",
       "shortDescription": "Invoque de 1 élémentaire FP 2 à 8 élémentaires FP 1/4 amicaux (nbre de créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -2314,6 +2339,7 @@
       "range": "18m",
       "shortDescription": "Invoque de 1 fée FP 2 à 8 fées FP 1/4 amicales (nbre de créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -2644,6 +2670,7 @@
       "range": "9m",
       "shortDescription": "Crée ou détruit jusqu'à 40 litres d'eau (+40 litres/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -2679,6 +2706,7 @@
       "range": "3m",
       "shortDescription": "Jusqu'à 3 cadavres humanoïdes M ou P deviennent une goule qui obéit au lanceur durant 24 h (nbre et type de créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -2712,6 +2740,7 @@
       "range": "9m",
       "shortDescription": "Crée un objet non vivant fait de matières végétales ou minérales et pas plus grand qu'un cube de 1,50 m (+1,50 m/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -2817,6 +2846,7 @@
       "range": "Toucher",
       "shortDescription": "1 créature récupère 1d8+Mod.Carac pv (+1d8 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -3028,6 +3058,7 @@
       "range": "45m",
       "shortDescription": "Les créatures dans une shpère de 6 m de rayon doivent réussir un JdS de Dex. ou subir 12d6 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 7,
@@ -3350,6 +3381,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Dex. ou subir 10d6+40 dégâts de force (dégâts/niv). Un objet de taille G est désintégré."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -3425,6 +3457,7 @@
       "range": "36m",
       "shortDescription": "Met fin aux sorts de niveau 3 ou inférieur sur une cible. Jet de Carac.Inc pour les sorts de niveau 4 ou supérieur (seuil/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spells level is equal to or less than the level of the spell slot you used.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -3588,6 +3621,7 @@
       "range": "18m",
       "shortDescription": "Une bête à 18 m doit réussir un JdS de Sag. ou être charmé et obéir au lanceur (durée/niv)."
     },
+    "higherLevel": "When you cast this spell with a 9th level spell slot, the duration is concentration, up to 8 hours.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -3624,6 +3658,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et obéir au lanceur (durée/niv)."
     },
+    "higherLevel": "When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.",
     "isConcentration": true,
     "isRitual": false,
     "level": 8,
@@ -3662,6 +3697,7 @@
       "range": "18m",
       "shortDescription": "Un humanoïde doit réussir un JdS de Sag. ou être charmé et obéir au lanceur (durée/niv)."
     },
+    "higherLevel": "When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -3894,6 +3930,7 @@
       "range": "Toucher",
       "shortDescription": "La cible gagne l'avantage aux jets d'une caractéristique prédéfinie, plus d'éventuels autres bonus (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -4058,6 +4095,7 @@
       "range": "Personnelle",
       "shortDescription": "Le lanceur est projetté dans le plan éthéré (nbre de créatures/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.",
     "isConcentration": false,
     "isRitual": false,
     "level": 7,
@@ -4259,6 +4297,7 @@
       "range": "Personnelle",
       "shortDescription": "Le lanceur gagne 1d4+4 pv temporaires (+5 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -4708,6 +4747,7 @@
       "range": "45m",
       "shortDescription": "Les créatures dans un rayon de 6 m doivent réussir un JdS de Dex. ou subir 8d6 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -4739,6 +4779,7 @@
       "range": "Personnelle",
       "shortDescription": "Si l'attaque avec un sort touche, inflige 3d6 dégâts de feu (dégâts/niv). Émet une lumière vive sur 3 m et faible sur 3 m extra."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -4774,6 +4815,7 @@
       "range": "18m",
       "shortDescription": "Les créatures dans un cylindre de 6 x 12 m doivent réussir un JdS de Dex. ou subir 4d6 de feu et 4d6 radiants (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -4809,6 +4851,7 @@
       "range": "18m",
       "shortDescription": "Les créatures à 3 m d'une sphère de 3 m de diamètre doivent réussir un JdS de Dex. ou subir 2d6 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -4877,6 +4920,7 @@
       "range": "Toucher",
       "shortDescription": "La cible obtient une vitesse de vol de 18 mètres (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -4915,6 +4959,7 @@
       "range": "36m",
       "shortDescription": "Rend la visibilité nulle dans une sphère de 6 m de rayon (+6 m/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.",
     "isConcentration": true,
     "isRitual": false,
     "level": 1,
@@ -5204,6 +5249,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et subir 5d10 dégâts psychiques si elle n'obéit pas (durée/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -5333,6 +5379,7 @@
       "range": "Personnelle",
       "shortDescription": "Bloque les sorts de niveau 5 ou inférieur dans un rayon de 3 m (seuil/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 6,
@@ -5368,6 +5415,7 @@
       "range": "Toucher",
       "shortDescription": "Un glyphe sur un objet inflige 5d8 dégâts dans un rayon de 4,50 m (dégâts/niv) ou lance un sort niv 3 (niv/niv) si déclenché."
     },
+    "higherLevel": "When you cast this spell using a 4 or higher is level, the damage explosive runes increased by 1d8 for each level of top slot 3. If you create a glyph spell, you may store a spell whose level is equivalent or less to spell slot used for the custody of the glyph.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -5665,6 +5713,7 @@
       "range": "36m",
       "shortDescription": "Si l'attaque avec un sort touche, inflige 4d6 dégâts radiants (dégâts/niv) et le prochain jet d'attaque aura l'avantage."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -5900,6 +5949,7 @@
       "range": "18m",
       "shortDescription": "1 créature récupère 70 pv et est guérie des maladies, de l'aveuglement et de la surdité (+10 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -5933,6 +5983,7 @@
       "range": "18m",
       "shortDescription": "1 créature récupère 1d4+Mod.Carac pv (+1d4 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -5966,6 +6017,7 @@
       "range": "18m",
       "shortDescription": "Les créatures en contact avec l'objet en métal subissent 2d8 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -6133,6 +6185,7 @@
       "range": "27m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être paralysée (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a level 6 or higher location, you can target an additional creature for each level of location beyond the fifth. The creatures must be within 30 feet o f each other when you target them.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -6176,6 +6229,7 @@
       "range": "18m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être paralysée (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -6344,6 +6398,7 @@
       "range": "90m",
       "shortDescription": "Les créatures dans un cylindre de 12 x 12 m doivent réussir un JdS de Dex. ou subir 2d8 dégâts contondants et 4d6 de froid."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 4,
@@ -6512,6 +6567,7 @@
       "range": "Toucher",
       "shortDescription": "Si l'attaque touche, inflige subit 3d10 dégâts nécrotiques (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -6547,6 +6603,7 @@
       "range": "90m",
       "shortDescription": "Les créatures dans une sphère de 6 m de rayon doivent réussir un JdS de Con. ou subir 4d10 dégâts perforants (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -6586,6 +6643,7 @@
       "range": "Toucher",
       "shortDescription": "La cible devient invisible 1 heure ou jusqu'à ce qu'elle attaque ou lance un sort (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -6929,6 +6987,7 @@
       "range": "Personnelle",
       "shortDescription": "Les créatures sur une ligne de 30 x 1,50 m doivent réussir un JdS de Dex. ou subir 8d6 dégâts de foudre (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -7085,6 +7144,7 @@
       "range": "Toucher",
       "shortDescription": "La cible obtient une vitesse augmentée de 3 m (+1 créature/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -7191,6 +7251,7 @@
       "range": "3m",
       "shortDescription": "Crée un cylindre de 6 x 6 m qui protège des célestes, élémentaires, fées, fiélons et/ou morts-vivants (+1 h/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -7254,6 +7315,7 @@
       "range": "36m",
       "shortDescription": "3 projectiles infligent automatiquement 1d4+1 dégâts de force chacun à une ou plusieurs créatures (+1 projectile/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -7323,6 +7385,7 @@
       "range": "Toucher",
       "shortDescription": "Transforme une arme en arme magique +1 à l'attaque et aux dégâts (bonus de +2 ou +3/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -7360,6 +7423,7 @@
       "range": "36m",
       "shortDescription": "Crée l'image d'un objet ou d'une créature animée, avec sons et odeurs (sans concentration/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -7394,6 +7458,7 @@
       "range": "18m",
       "shortDescription": "Jusqu'à 6 créatures récupèrent 3d8+Mod.Carac.Inc pv (+1d8 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -7453,6 +7518,7 @@
       "range": "18m",
       "shortDescription": "Jusqu'à 6 créatures récupèrent 1d4+Mod.Carac pv (+1d4 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 3,
@@ -7489,6 +7555,7 @@
       "range": "18m",
       "shortDescription": "Jusqu'à 12 cibles doivent réussir un JdS de Sag. ou suivre la suggestion que leur donne le lanceur (durée/niv)."
     },
+    "higherLevel": "When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.",
     "isConcentration": false,
     "isRitual": false,
     "level": 6,
@@ -7934,6 +8001,7 @@
       "range": "9m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être charmée et sa mémoire altérée (ancienneté des souvenirs/niv)."
     },
+    "higherLevel": "If you cast this spell using a spell slot of 6th level or higher, you can alter the targets memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).",
     "isConcentration": true,
     "isRitual": false,
     "level": 5,
@@ -7967,6 +8035,7 @@
       "range": "36m",
       "shortDescription": "Les créatures dans un cylindre de 3 x 12 m doivent réussir un JdS de Con. ou subir 2d10 dégâts radiants (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1dlO for each slot level above 2nd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 2,
@@ -8426,6 +8495,7 @@
       "range": "36m",
       "shortDescription": "La cible doit réussir un JdS de Sag. ou être effrayée puis subir 4d10 dégâts psychiques (dégâts/niv) à chacun de ses tours."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1dlO for each slot level above 4th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -8525,6 +8595,7 @@
       "range": "18m",
       "shortDescription": "La cible (céleste, élémentaire, fée ou fiélon) doit réussir un JdS de Cha. ou servir le lanceur (durée/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.",
     "isConcentration": false,
     "isRitual": false,
     "level": 5,
@@ -8804,6 +8875,7 @@
       "range": "9m",
       "shortDescription": "Jusqu'à 6 créatures récupèrent 2d8+Mod.Carac pv (+1d8 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -9677,6 +9749,7 @@
       "range": "36m",
       "shortDescription": "Si les attaques touchent, 3 rayons infligent chacun 2d6 dégâts de feu (+1 rayon/niv)."
     },
+    "higherLevel": "When you cast this spell using a 3 or higher level spell slot, you generate an additional radius for each level of higher spell slot 2.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -9958,6 +10031,7 @@
       "range": "18m",
       "shortDescription": "Les créatures dans une sphère de 3 m de rayon doivent réussir un JdS de Con. ou subir 3d8 dégâts de tonnerre (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a 3 or higher level spell slot, the damage of the spell increases by 1d8 for each level of higher spell slot 2.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -10227,6 +10301,7 @@
       "range": "27m",
       "shortDescription": "5d8 pv de créatures s'endorment, par ordre croissant de leurs pv actuels (+2d8 pv/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -10539,6 +10614,7 @@
       "range": "Personnelle",
       "shortDescription": "Les cibles dans un rayon de 4,50 m doivent réussir un JdS de Sag. ou subir 3d8 dégâts radiants ou nécrotiques (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -10569,6 +10645,7 @@
       "range": "18m",
       "shortDescription": "Si l'attaque avec un sort touche, inflige 1d8+Mod.Carac dégâts de force (dégâts/niv). Une action bonus permet une autre attaque."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.",
     "isConcentration": false,
     "isRitual": false,
     "level": 2,
@@ -11244,6 +11321,7 @@
       "range": "Personnelle",
       "shortDescription": "Les créatures dans un cube de 4,50 m doivent réussir un JdS de Con. ou subir 2d8 dégâts de tonnerre (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
     "isConcentration": false,
     "isRitual": false,
     "level": 1,
@@ -11620,6 +11698,7 @@
       "range": "Personnelle",
       "shortDescription": "Si l'attaque avec un sort touche, inflige 3d6 dégâts nécrotiques (dégâts/niv) et le lanceur récupère 50% de ces pv ."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
     "isConcentration": true,
     "isRitual": false,
     "level": 3,
@@ -11688,6 +11767,7 @@
       "range": "36m",
       "shortDescription": "Crée un mur de feu de 18 m x 6 m x 30 cm. Les créatures dans ou à 3 m du mur d'un côté subissent 5d8 dégâts de feu (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a level spell slot 5 or more, the damage of the spell increases by 1d8 for each level of higher spell slot to 4.",
     "isConcentration": true,
     "isRitual": false,
     "level": 4,
@@ -11750,6 +11830,7 @@
       "range": "36m",
       "shortDescription": "Crée un mur de glace (dix panneaux de 3 m) qui peut être détruit et peut infliger 5d6 de froid si on le traverse (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 6,
@@ -11816,6 +11897,7 @@
       "range": "36m",
       "shortDescription": "Crée un mur de broussailles de 18 x 3 x 1,50 m qui ralentit les mouvements et peut infliger 7d8 dégâts tranchants (dégâts/niv)."
     },
+    "higherLevel": "When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.",
     "isConcentration": true,
     "isRitual": false,
     "level": 6,
