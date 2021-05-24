@@ -1,6 +1,19 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
+  "dependencies": {},
   "description": "Dungeon & Dragons 5e spells as a node module",
+  "devDependencies": {
+    "aberlaas": "1.22.0",
+    "firost": "2.13.1",
+    "golgoth": "2.0.0"
+  },
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "files": [
+    "lib/*.js",
+    "lib/*.json"
+  ],
   "keywords": [
     "spells",
     "dnd",
@@ -8,31 +21,18 @@
     "dungeons and dragons",
     "5e"
   ],
-  "devDependencies": {
-    "aberlaas": "0.1.6",
-    "firost": "0.6.0",
-    "golgoth": "^0.1.4"
-  },
   "license": "MIT",
-  "files": [
-    "build/"
-  ],
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "name": "dnd5-spells",
   "repository": "git@github.com:pixelastic/dnd5-spells.git",
   "scripts": {
-    "build": "./scripts/build",
-    "build:watch": "./scripts/build-watch",
+    "ci": "./scripts/ci",
+    "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
-    "lint:js": "./scripts/lint-js",
-    "lint:js:fix": "./scripts/lint-js-fix",
-    "lint:json": "./scripts/lint-json",
-    "lint:json:fix": "./scripts/lint-json-fix",
     "release": "./scripts/release",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.2.1",
-  "dependencies": {}
+  "version": "0.2.1"
 }
