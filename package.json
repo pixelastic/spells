@@ -4,7 +4,7 @@
   "description": "Dungeon & Dragons 5e spells as a node module",
   "devDependencies": {
     "aberlaas": "1.24.1",
-    "firost": "2.16.1",
+    "firost": "2.16.2",
     "golgoth": "2.0.0"
   },
   "engines": {
